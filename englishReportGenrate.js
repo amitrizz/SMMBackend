@@ -3,6 +3,7 @@ const path = require('path');
 const fs = require('fs-extra');
 const puppeteer = require('puppeteer');
 const PDFMerger = require('pdf-merger-js').default;
+const chromium  = require('playwright').chromium;
 const cheerio = require('cheerio');
 const { generateChartImagePath } = require('./english-report-support/helper.js');
 const { listDocFiles, convertImageToPDF, generatePDFsFromDocx, updateOlStartNumber } = require('./english-report-support/fileList.js');
@@ -488,20 +489,26 @@ const colorPalette = [
   "#9a1f2c", "#D4AF37", "#708090"
 ];
 
-async function convertHtmlToPdf(htmlContent, outputPdfPath) {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  // console.log(htmlContent);
 
-  await page.setContent(htmlContent, { waitUntil: 'networkidle0', timeout: 30000 });
+async function convertHtmlToPdf(htmlContent, outputPdfPath) {
+  const browser = await chromium.launch();
+  const page = await browser.newPage();
+
+  // Set HTML content
+  await page.setContent(htmlContent, { waitUntil: 'networkidle' });
+
+  // Generate PDF
   await page.pdf({
     path: outputPdfPath,
     format: 'A4',
     printBackground: true,
     margin: { top: '0mm', bottom: '0mm', left: '0mm', right: '0mm' }
   });
+
   await browser.close();
 }
+
+
 
 function splitHtmlByAllPageBreaks(html) {
   const $ = cheerio.load(html);
