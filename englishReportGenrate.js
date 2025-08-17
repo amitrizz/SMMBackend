@@ -489,7 +489,11 @@ const colorPalette = [
 ];
 
 async function convertHtmlToPdf(htmlContent, outputPdfPath) {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    headless: "new",
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    userDataDir: "/tmp/puppeteer_user_data"
+  });
   const page = await browser.newPage();
   // console.log(htmlContent);
 
