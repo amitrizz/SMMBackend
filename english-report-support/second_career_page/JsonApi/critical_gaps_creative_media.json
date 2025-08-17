@@ -1,0 +1,408 @@
+{
+  "career": "Creative and Media Careers",
+  "category": "Critical Gap",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -4.5,
+      "description": "Drives completion of creative projects.",
+      "action": "Set SMART goals for a media project using SMM\u2019s progress tracker and review weekly."
+    },
+    {
+      "name": "Strength",
+      "score": -4.5,
+      "description": "Builds mental resilience for tight deadlines.",
+      "action": "Practice daily yoga with SMM wellness sessions to enhance mental fortitude."
+    },
+    {
+      "name": "Accurate",
+      "score": -4.5,
+      "description": "Ensures precision in editing or design work.",
+      "action": "Use SMM\u2019s focus-enhancing neurofeedback to improve accuracy in content editing."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -4.5,
+      "description": "Aids in structuring media narratives.",
+      "action": "Solve logic puzzles daily to sharpen reasoning for storytelling."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -4.5,
+      "description": "Key for designing layouts or visual compositions.",
+      "action": "Practice graphic design software like Adobe Illustrator to enhance spatial skills."
+    },
+    {
+      "name": "Dexterity",
+      "score": -4.5,
+      "description": "Supports precise work in video editing or illustration.",
+      "action": "Practice fine-motor exercises like digital sketching to improve dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -4.5,
+      "description": "Boosts stamina for on-location shoots or long editing sessions.",
+      "action": "Join a fitness program to increase physical endurance for media work."
+    },
+    {
+      "name": "Melodic",
+      "score": -4.5,
+      "description": "Enhances audio storytelling or voiceovers.",
+      "action": "Practice vocal exercises to develop a compelling voice for media projects."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -4.5,
+      "description": "Critical for creating visually appealing content.",
+      "action": "Study art and design principles to refine aesthetic judgment."
+    },
+    {
+      "name": "Creativity",
+      "score": -4.5,
+      "description": "Essential for generating original content.",
+      "action": "Brainstorm daily in SMM\u2019s creative workshops to spark innovative ideas."
+    },
+    {
+      "name": "Observational",
+      "score": -4.5,
+      "description": "Helps capture authentic details in journalism or film.",
+      "action": "Practice mindfulness to improve attention to environmental details."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -4.5,
+      "description": "Resolves creative or production challenges.",
+      "action": "Tackle media case studies to hone problem-solving skills."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -4.5,
+      "description": "Supports choices in project direction.",
+      "action": "Practice decision-making with SMM\u2019s creative project simulations."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -4.5,
+      "description": "Key for managing media campaigns.",
+      "action": "Develop a content strategy plan to practice strategic planning."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -4.5,
+      "description": "Vital for evaluating content quality.",
+      "action": "Critique a media piece in a team discussion to sharpen critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -4.5,
+      "description": "Essential for pitching ideas and collaborating.",
+      "action": "Join a Toastmasters club to practice clear, persuasive communication."
+    },
+    {
+      "name": "Teamwork",
+      "score": -4.5,
+      "description": "Necessary for collaborative media projects.",
+      "action": "Participate in a group film or design project to enhance team dynamics."
+    },
+    {
+      "name": "Leadership",
+      "score": -4.5,
+      "description": "Drives success in directing creative teams.",
+      "action": "Take a leadership role in a media production or creative team."
+    },
+    {
+      "name": "Negotiation",
+      "score": -4.5,
+      "description": "Key for securing project funding or contracts.",
+      "action": "Role-play negotiation scenarios with SMM mentors."
+    },
+    {
+      "name": "Drive",
+      "score": -4.5,
+      "description": "Fuels motivation to complete creative projects.",
+      "action": "Set personal project milestones and track them with SMM\u2019s goal tracker."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -4.5,
+      "description": "Encourages continuous creative learning.",
+      "action": "Enroll in a design or media course to foster a growth mindset."
+    },
+    {
+      "name": "Resilience",
+      "score": -4.5,
+      "description": "Helps overcome creative rejections.",
+      "action": "Practice stress-relief techniques like meditation to build resilience."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -4.5,
+      "description": "Boosts confidence in creative tasks.",
+      "action": "Reflect on past creative successes using SMM\u2019s journaling exercises."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -4.5,
+      "description": "Sustains passion for creative work.",
+      "action": "Document personal reasons for pursuing media to stay motivated."
+    },
+    {
+      "name": "Adaptability",
+      "score": -4.5,
+      "description": "Enables adjustment to new media trends.",
+      "action": "Learn a new content creation tool to improve adaptability."
+    },
+    {
+      "name": "Time Management",
+      "score": -4.5,
+      "description": "Ensures meeting project deadlines.",
+      "action": "Use SMM\u2019s time-tracking tools to prioritize creative tasks."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -4.5,
+      "description": "Drives initiative in content creation.",
+      "action": "Pitch a new media idea in team meetings to practice proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -4.5,
+      "description": "Supports audience analytics for media.",
+      "action": "Learn Google Analytics through online tutorials to enhance data skills."
+    },
+    {
+      "name": "Programming",
+      "score": -4.5,
+      "description": "Aids in developing interactive media.",
+      "action": "Learn basic JavaScript for web design through online courses."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -4.5,
+      "description": "Helps with budgeting media projects.",
+      "action": "Practice budget calculations for mock media projects."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -4.5,
+      "description": "Resolves issues with editing software.",
+      "action": "Practice troubleshooting Adobe Premiere with SMM tech support."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -4.5,
+      "description": "Enhances detail in documentary work.",
+      "action": "Conduct observational research for a media project to improve skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -4.5,
+      "description": "Fosters innovative media solutions.",
+      "action": "Attend design thinking workshops to apply to creative projects."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -4.5,
+      "description": "Improves team and audience engagement.",
+      "action": "Practice active listening in creative team discussions."
+    },
+    {
+      "name": "Resistance",
+      "score": -4.5,
+      "description": "Builds endurance against creative stress.",
+      "action": "Use SMM\u2019s mindfulness practices to manage project stress."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -4.5,
+      "description": "Enhances authentic storytelling.",
+      "action": "Practice expressive writing for scripts or articles."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -4.5,
+      "description": "Supports quick budget or metric calculations.",
+      "action": "Solve daily math puzzles to sharpen numerical skills."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -4.5,
+      "description": "Aids in designing visual compositions.",
+      "action": "Create layouts in Photoshop to enhance spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -4.5,
+      "description": "Key for evaluating media impact.",
+      "action": "Analyze audience feedback with SMM\u2019s focus tools."
+    },
+    {
+      "name": "Compassion",
+      "score": -4.5,
+      "description": "Builds connection in storytelling.",
+      "action": "Volunteer in a community media project to practice compassion."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -4.5,
+      "description": "Encourages diverse creative approaches.",
+      "action": "Explore cross-media formats like podcasts and video in discussions."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -4.5,
+      "description": "Drives exploration of new media trends.",
+      "action": "Research emerging media topics to formulate new project ideas."
+    },
+    {
+      "name": "Precision",
+      "score": -4.5,
+      "description": "Ensures high-quality creative outputs.",
+      "action": "Practice precise editing in video or design software."
+    },
+    {
+      "name": "Organization",
+      "score": -4.5,
+      "description": "Vital for managing project assets.",
+      "action": "Implement a digital asset management system for media projects."
+    },
+    {
+      "name": "Responsibility",
+      "score": -4.5,
+      "description": "Ensures accountability in project delivery.",
+      "action": "Manage a small media task to show responsibility."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -4.5,
+      "description": "Supports consistent creative output.",
+      "action": "Maintain a disciplined content creation schedule with SMM tools."
+    },
+    {
+      "name": "Agility",
+      "score": -4.5,
+      "description": "Enables quick adaptation to project changes.",
+      "action": "Practice rapid problem-solving in media production simulations."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -4.5,
+      "description": "Aids in pitching creative ideas.",
+      "action": "Practice presenting a project pitch confidently to a team."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -4.5,
+      "description": "Enhances audience engagement but needs balance.",
+      "action": "Practice concise pitching to refine communication."
+    },
+    {
+      "name": "Empathy",
+      "score": -4.5,
+      "description": "Strengthens audience connection in media.",
+      "action": "Use SMM\u2019s emotional intelligence exercises to deepen empathy in storytelling."
+    },
+    {
+      "name": "Cooperation",
+      "score": -4.5,
+      "description": "Supports collaborative media projects.",
+      "action": "Collaborate on a group media project to enhance cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -4.5,
+      "description": "Ensures smooth project execution.",
+      "action": "Coordinate a film or design project to practice coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -4.5,
+      "description": "Builds trust in creative collaborations.",
+      "action": "Practice transparent feedback in team critiques."
+    },
+    {
+      "name": "Patience",
+      "score": -4.5,
+      "description": "Key for iterative creative processes.",
+      "action": "Practice mindfulness to cultivate patience during revisions."
+    },
+    {
+      "name": "Fear Management",
+      "score": -4.5,
+      "description": "Reduces anxiety in high-stakes projects.",
+      "action": "Use SMM\u2019s neurofeedback to manage fear of creative failure."
+    },
+    {
+      "name": "Balance",
+      "score": -4.5,
+      "description": "Maintains stability in demanding media roles.",
+      "action": "Practice work-life balance with SMM\u2019s wellness tools."
+    },
+    {
+      "name": "Persuasive",
+      "score": -4.5,
+      "description": "Convinces stakeholders of project value.",
+      "action": "Attend persuasion workshops to refine pitch skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -4.5,
+      "description": "Essential for compelling media content.",
+      "action": "Write a short script or article to practice narrative skills."
+    },
+    {
+      "name": "Discerning",
+      "score": -4.5,
+      "description": "Supports evaluation of content quality.",
+      "action": "Review media pieces to improve discernment skills."
+    },
+    {
+      "name": "Innovative",
+      "score": -4.5,
+      "description": "Drives original media creations.",
+      "action": "Propose a unique content idea in team brainstorming sessions."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -4.5,
+      "description": "Aids in developing creative themes.",
+      "action": "Study media theory to enhance conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -4.5,
+      "description": "Supports audience metric analysis.",
+      "action": "Practice data exercises with media analytics tools."
+    },
+    {
+      "name": "Methodical",
+      "score": -4.5,
+      "description": "Ensures systematic creative processes.",
+      "action": "Create a project workflow to showcase methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -4.5,
+      "description": "Enhances data-driven content decisions.",
+      "action": "Use SMM\u2019s focus tools to analyze audience data."
+    },
+    {
+      "name": "Imaginative",
+      "score": -4.5,
+      "description": "Fosters visionary media projects.",
+      "action": "Brainstorm bold project ideas in creative sessions."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -4.5,
+      "description": "Critical for visually stunning content.",
+      "action": "Design a polished media piece to showcase aesthetic skills."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -4.5,
+      "description": "Strengthens creative team collaboration.",
+      "action": "Lead a team-based media project to enhance team orientation."
+    }
+  ]
+}

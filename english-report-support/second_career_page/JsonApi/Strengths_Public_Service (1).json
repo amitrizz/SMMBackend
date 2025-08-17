@@ -1,0 +1,408 @@
+{
+  "career": "Public Service & Government Careers",
+  "category": "Strength",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -1.55,
+      "description": "Drives achievement of public policy objectives.",
+      "action": "Set and track community project milestones using SMM\u2019s progress tracker."
+    },
+    {
+      "name": "Strength",
+      "score": -1.55,
+      "description": "Enhances mental resilience for high-pressure governance roles.",
+      "action": "Lead a challenging public initiative to demonstrate fortitude."
+    },
+    {
+      "name": "Accurate",
+      "score": -1.55,
+      "description": "Ensures precision in policy documentation and reporting.",
+      "action": "Deliver a flawless policy report to highlight accuracy."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -1.55,
+      "description": "Aids in analyzing complex policy issues.",
+      "action": "Apply logic in a policy analysis to showcase expertise."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -1.55,
+      "description": "Helps visualize urban or logistical planning.",
+      "action": "Create a city planning map to display spatial skills."
+    },
+    {
+      "name": "Dexterity",
+      "score": -1.55,
+      "description": "Improves efficiency in fieldwork or administrative tasks.",
+      "action": "Demonstrate precise task execution in a public service simulation."
+    },
+    {
+      "name": "Athletic",
+      "score": -1.55,
+      "description": "Boosts stamina for fieldwork or law enforcement roles.",
+      "action": "Maintain a fitness routine to sustain energy in public duties."
+    },
+    {
+      "name": "Melodic",
+      "score": -1.55,
+      "description": "Enhances public speaking engagement.",
+      "action": "Use vocal clarity in a public address to captivate audiences."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -1.55,
+      "description": "Elevates public communication visuals.",
+      "action": "Design compelling policy infographics to showcase aesthetics."
+    },
+    {
+      "name": "Creativity",
+      "score": -1.55,
+      "description": "Fosters innovative public solutions.",
+      "action": "Propose a novel community program in a meeting."
+    },
+    {
+      "name": "Observational",
+      "score": -1.55,
+      "description": "Captures community needs or policy gaps.",
+      "action": "Share observational insights in a policy discussion."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -1.55,
+      "description": "Resolves governance challenges effectively.",
+      "action": "Lead a solution for a community issue to showcase skills."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -1.55,
+      "description": "Supports confident policy choices.",
+      "action": "Make strategic decisions in a governance simulation."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -1.55,
+      "description": "Enhances public initiative planning.",
+      "action": "Develop a community development plan to highlight planning."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -1.55,
+      "description": "Ensures robust policy evaluation.",
+      "action": "Critique a policy proposal to showcase critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -1.55,
+      "description": "Enhances public and stakeholder interactions.",
+      "action": "Deliver a compelling public speech to showcase communication."
+    },
+    {
+      "name": "Teamwork",
+      "score": -1.55,
+      "description": "Strengthens multi-agency collaboration.",
+      "action": "Lead a collaborative public project to demonstrate teamwork."
+    },
+    {
+      "name": "Leadership",
+      "score": -1.55,
+      "description": "Guides public teams effectively.",
+      "action": "Mentor a junior public servant to show leadership."
+    },
+    {
+      "name": "Negotiation",
+      "score": -1.55,
+      "description": "Secures resources for public programs.",
+      "action": "Negotiate a mock resource allocation to highlight skills."
+    },
+    {
+      "name": "Drive",
+      "score": -1.55,
+      "description": "Fuels motivation for public welfare.",
+      "action": "Pursue a challenging public service goal to showcase drive."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -1.55,
+      "description": "Encourages continuous policy learning.",
+      "action": "Share insights from a governance course in a meeting."
+    },
+    {
+      "name": "Resilience",
+      "score": -1.55,
+      "description": "Helps navigate public service stressors.",
+      "action": "Share strategies for overcoming policy setbacks."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -1.55,
+      "description": "Boosts confidence in public tasks.",
+      "action": "Present a confident policy proposal to demonstrate self-efficacy."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -1.55,
+      "description": "Sustains passion for public service.",
+      "action": "Share personal motivations in a team discussion to inspire others."
+    },
+    {
+      "name": "Adaptability",
+      "score": -1.55,
+      "description": "Enables adjustment to policy changes.",
+      "action": "Adopt a new public protocol to show flexibility."
+    },
+    {
+      "name": "Time Management",
+      "score": -1.55,
+      "description": "Ensures meeting public deadlines.",
+      "action": "Organize a policy project timeline to demonstrate time management."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -1.55,
+      "description": "Drives initiative in public improvements.",
+      "action": "Propose a new public program to showcase proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -1.55,
+      "description": "Supports evidence-based policy-making.",
+      "action": "Analyze public data to highlight analytical skills."
+    },
+    {
+      "name": "Programming",
+      "score": -1.55,
+      "description": "Aids in developing governance software.",
+      "action": "Create a simple data tool for public use using Python."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -1.55,
+      "description": "Enhances budget or resource calculations.",
+      "action": "Develop a public budget plan to demonstrate reasoning."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -1.55,
+      "description": "Resolves public system issues.",
+      "action": "Fix a government software issue to show troubleshooting skills."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -1.55,
+      "description": "Improves public research accuracy.",
+      "action": "Present a community study to highlight observation skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -1.55,
+      "description": "Fosters innovative public solutions.",
+      "action": "Apply design thinking to a community-focused project."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -1.55,
+      "description": "Enhances public and team relations.",
+      "action": "Build rapport in a community meeting to demonstrate emotional intelligence."
+    },
+    {
+      "name": "Resistance",
+      "score": -1.55,
+      "description": "Builds endurance against public stress.",
+      "action": "Share stress management tips in a public service team setting."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -1.55,
+      "description": "Strengthens public trust through empathy.",
+      "action": "Express empathy in a public consultation to build trust."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -1.55,
+      "description": "Supports rapid budget calculations.",
+      "action": "Perform quick public finance calculations to show aptitude."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -1.55,
+      "description": "Aids in visualizing public plans.",
+      "action": "Create a 3D urban planning model to demonstrate spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -1.55,
+      "description": "Improves public data analysis.",
+      "action": "Analyze public feedback to showcase analytical skills."
+    },
+    {
+      "name": "Compassion",
+      "score": -1.55,
+      "description": "Builds trust in community relationships.",
+      "action": "Show compassion in a public initiative to strengthen relations."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -1.55,
+      "description": "Encourages diverse policy approaches.",
+      "action": "Combine multiple perspectives in a public project to highlight eclecticism."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -1.55,
+      "description": "Drives policy research curiosity.",
+      "action": "Share a policy research question in a team discussion."
+    },
+    {
+      "name": "Precision",
+      "score": -1.55,
+      "description": "Ensures accuracy in public records.",
+      "action": "Deliver a precise public report to showcase precision."
+    },
+    {
+      "name": "Organization",
+      "score": -1.55,
+      "description": "Vital for managing public projects.",
+      "action": "Organize public resources to demonstrate organizational skills."
+    },
+    {
+      "name": "Responsibility",
+      "score": -1.55,
+      "description": "Ensures accountability in public duties.",
+      "action": "Take ownership of a public task to highlight responsibility."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -1.55,
+      "description": "Supports consistent public performance.",
+      "action": "Maintain a disciplined public service routine to show self-discipline."
+    },
+    {
+      "name": "Agility",
+      "score": -1.55,
+      "description": "Enables quick crisis responses.",
+      "action": "Respond swiftly in a public emergency simulation to demonstrate agility."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -1.55,
+      "description": "Aids in advocating public needs.",
+      "action": "Confidently advocate for a community need to showcase assertiveness."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -1.55,
+      "description": "Enhances public engagement.",
+      "action": "Engage audiences in a public presentation to showcase talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -1.55,
+      "description": "Strengthens community relationships.",
+      "action": "Develop an empathetic public campaign to demonstrate empathy."
+    },
+    {
+      "name": "Cooperation",
+      "score": -1.55,
+      "description": "Supports collaborative public initiatives.",
+      "action": "Collaborate on a multi-agency public project to demonstrate cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -1.55,
+      "description": "Ensures smooth public operations.",
+      "action": "Coordinate a public service team task to show coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -1.55,
+      "description": "Builds trust in public interactions.",
+      "action": "Provide transparent feedback in a public report to show frankness."
+    },
+    {
+      "name": "Patience",
+      "score": -1.55,
+      "description": "Key for long-term public projects.",
+      "action": "Demonstrate patience in a community project to showcase composure."
+    },
+    {
+      "name": "Fear Management",
+      "score": -1.55,
+      "description": "Reduces anxiety in public roles.",
+      "action": "Share fear management strategies in a public service setting."
+    },
+    {
+      "name": "Balance",
+      "score": -1.55,
+      "description": "Maintains stability in public roles.",
+      "action": "Maintain work-life balance to demonstrate stability."
+    },
+    {
+      "name": "Persuasive",
+      "score": -1.55,
+      "description": "Convinces stakeholders for public initiatives.",
+      "action": "Deliver a persuasive policy pitch to showcase skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -1.55,
+      "description": "Enhances public communication.",
+      "action": "Craft a compelling narrative for a public campaign to showcase storytelling."
+    },
+    {
+      "name": "Discerning",
+      "score": -1.55,
+      "description": "Supports policy effectiveness evaluation.",
+      "action": "Evaluate a public policy to demonstrate discernment."
+    },
+    {
+      "name": "Innovative",
+      "score": -1.55,
+      "description": "Drives novel public solutions.",
+      "action": "Propose a groundbreaking public program to demonstrate innovation."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -1.55,
+      "description": "Enhances understanding of governance systems.",
+      "action": "Explain a policy framework to colleagues to show conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -1.55,
+      "description": "Supports public research analysis.",
+      "action": "Analyze public statistics to demonstrate quantitative skills."
+    },
+    {
+      "name": "Methodical",
+      "score": -1.55,
+      "description": "Ensures systematic public processes.",
+      "action": "Create a public project workflow to demonstrate methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -1.55,
+      "description": "Enhances data-driven public decisions.",
+      "action": "Analyze public data to showcase analytic skills."
+    },
+    {
+      "name": "Imaginative",
+      "score": -1.55,
+      "description": "Fosters creative public solutions.",
+      "action": "Propose a bold public program concept to demonstrate imagination."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -1.55,
+      "description": "Improves visual appeal of public materials.",
+      "action": "Design a stunning public campaign to showcase aesthetic skills."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -1.55,
+      "description": "Strengthens public team collaboration.",
+      "action": "Lead a team-based public initiative to demonstrate team orientation."
+    }
+  ]
+}

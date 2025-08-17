@@ -1,0 +1,408 @@
+{
+  "career": "Healthcare and Life Sciences Careers",
+  "category": "Strength",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -1.5,
+      "description": "Drives achievement of patient care and research goals.",
+      "action": "Set and track patient outcome goals using SMM\u2019s progress tracker to showcase ambition."
+    },
+    {
+      "name": "Strength",
+      "score": -1.5,
+      "description": "Enhances mental resilience for high-pressure healthcare settings.",
+      "action": "Lead a critical patient care task to demonstrate fortitude."
+    },
+    {
+      "name": "Accurate",
+      "score": -1.5,
+      "description": "Ensures precision in medical diagnoses and treatments.",
+      "action": "Double-check patient records to highlight accuracy."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -1.5,
+      "description": "Aids in diagnosing complex medical conditions.",
+      "action": "Apply logical reasoning in a patient case study to showcase expertise."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -1.5,
+      "description": "Helps visualize anatomical structures or medical imaging.",
+      "action": "Interpret medical scans to display spatial skills."
+    },
+    {
+      "name": "Dexterity",
+      "score": -1.5,
+      "description": "Improves precision in procedures like suturing.",
+      "action": "Practice surgical simulations to demonstrate dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -1.5,
+      "description": "Boosts stamina for long hospital shifts.",
+      "action": "Maintain a fitness routine to sustain energy in healthcare roles."
+    },
+    {
+      "name": "Melodic",
+      "score": -1.5,
+      "description": "Enhances patient interactions with soothing communication.",
+      "action": "Use a calming tone in patient consultations to engage effectively."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -1.5,
+      "description": "Improves design of patient education materials.",
+      "action": "Create visually appealing health infographics to showcase aesthetics."
+    },
+    {
+      "name": "Creativity",
+      "score": -1.5,
+      "description": "Fosters innovative healthcare solutions.",
+      "action": "Propose a new patient care approach in a team meeting."
+    },
+    {
+      "name": "Observational",
+      "score": -1.5,
+      "description": "Helps detect subtle patient symptoms.",
+      "action": "Share patient observations in a clinical discussion to demonstrate skill."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -1.5,
+      "description": "Resolves complex healthcare challenges.",
+      "action": "Lead a case study analysis to showcase problem-solving."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -1.5,
+      "description": "Supports confident clinical choices.",
+      "action": "Make strategic decisions in a medical simulation to demonstrate capability."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -1.5,
+      "description": "Aids in patient care coordination.",
+      "action": "Develop a patient care plan to highlight planning skills."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -1.5,
+      "description": "Enhances evaluation of treatment options.",
+      "action": "Lead a team discussion on treatment strategies to showcase critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -1.5,
+      "description": "Enhances patient and team interactions.",
+      "action": "Deliver a clear patient education session to showcase communication skills."
+    },
+    {
+      "name": "Teamwork",
+      "score": -1.5,
+      "description": "Strengthens collaboration in healthcare teams.",
+      "action": "Lead a collaborative patient care project to demonstrate teamwork."
+    },
+    {
+      "name": "Leadership",
+      "score": -1.5,
+      "description": "Guides healthcare teams effectively.",
+      "action": "Mentor a junior healthcare professional to show leadership."
+    },
+    {
+      "name": "Negotiation",
+      "score": -1.5,
+      "description": "Secures resources for patient care.",
+      "action": "Negotiate a mock resource allocation to highlight negotiation skills."
+    },
+    {
+      "name": "Drive",
+      "score": -1.5,
+      "description": "Fuels motivation for patient care.",
+      "action": "Pursue a challenging clinical goal to showcase drive."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -1.5,
+      "description": "Encourages continuous medical learning.",
+      "action": "Share insights from a medical journal in a team meeting."
+    },
+    {
+      "name": "Resilience",
+      "score": -1.5,
+      "description": "Helps navigate healthcare challenges.",
+      "action": "Share strategies for managing stress in a clinical setting."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -1.5,
+      "description": "Boosts confidence in clinical tasks.",
+      "action": "Present a confident patient diagnosis to demonstrate self-efficacy."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -1.5,
+      "description": "Sustains passion for healthcare.",
+      "action": "Share personal motivations in a team discussion to inspire others."
+    },
+    {
+      "name": "Adaptability",
+      "score": -1.5,
+      "description": "Enables adjustment to new medical protocols.",
+      "action": "Adapt a treatment plan to new guidelines to show flexibility."
+    },
+    {
+      "name": "Time Management",
+      "score": -1.5,
+      "description": "Ensures meeting patient care deadlines.",
+      "action": "Organize a clinical schedule to demonstrate time management."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -1.5,
+      "description": "Drives initiative in patient care.",
+      "action": "Propose a new patient care initiative to showcase proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -1.5,
+      "description": "Supports medical research and outcomes.",
+      "action": "Analyze patient data to highlight analytical skills."
+    },
+    {
+      "name": "Programming",
+      "score": -1.5,
+      "description": "Aids in developing healthcare software.",
+      "action": "Develop a simple health data script in Python to show technical skills."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -1.5,
+      "description": "Enhances dosage calculations.",
+      "action": "Solve complex dosage problems to demonstrate reasoning."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -1.5,
+      "description": "Resolves medical equipment issues.",
+      "action": "Fix a medical device issue to show troubleshooting skills."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -1.5,
+      "description": "Improves detection of research patterns.",
+      "action": "Present a clinical observation from a study to highlight skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -1.5,
+      "description": "Fosters innovative healthcare solutions.",
+      "action": "Design a patient-centric care approach to showcase design thinking."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -1.5,
+      "description": "Enhances patient and team dynamics.",
+      "action": "Build rapport with patients to demonstrate emotional intelligence."
+    },
+    {
+      "name": "Resistance",
+      "score": -1.5,
+      "description": "Builds endurance against healthcare stress.",
+      "action": "Share stress management tips in a clinical setting."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -1.5,
+      "description": "Strengthens patient trust through empathy.",
+      "action": "Express empathy in a patient consultation to build trust."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -1.5,
+      "description": "Supports rapid medical calculations.",
+      "action": "Perform quick calculations in a clinical meeting to show aptitude."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -1.5,
+      "description": "Aids in visualizing medical structures.",
+      "action": "Interpret a medical image to demonstrate spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -1.5,
+      "description": "Enhances clinical problem-solving.",
+      "action": "Analyze a patient case to showcase analytical skills."
+    },
+    {
+      "name": "Compassion",
+      "score": -1.5,
+      "description": "Builds patient trust in care.",
+      "action": "Show compassion in patient interactions to strengthen relationships."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -1.5,
+      "description": "Encourages diverse healthcare approaches.",
+      "action": "Propose a holistic treatment plan to highlight eclecticism."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -1.5,
+      "description": "Drives medical research curiosity.",
+      "action": "Share a research question in a team discussion to demonstrate curiosity."
+    },
+    {
+      "name": "Precision",
+      "score": -1.5,
+      "description": "Ensures accuracy in medical procedures.",
+      "action": "Perform a precise clinical task to showcase precision."
+    },
+    {
+      "name": "Organization",
+      "score": -1.5,
+      "description": "Vital for managing patient records.",
+      "action": "Organize patient data for a project to show organizational skills."
+    },
+    {
+      "name": "Responsibility",
+      "score": -1.5,
+      "description": "Ensures accountability in patient care.",
+      "action": "Take ownership of a clinical task to highlight responsibility."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -1.5,
+      "description": "Supports consistent healthcare performance.",
+      "action": "Maintain a disciplined study schedule for medical certifications."
+    },
+    {
+      "name": "Agility",
+      "score": -1.5,
+      "description": "Enables quick responses to medical emergencies.",
+      "action": "Respond swiftly in a clinical simulation to show agility."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -1.5,
+      "description": "Aids in advocating patient needs.",
+      "action": "Advocate for a patient in a team meeting to demonstrate assertiveness."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -1.5,
+      "description": "Enhances patient engagement.",
+      "action": "Engage patients in a health discussion to showcase talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -1.5,
+      "description": "Strengthens patient relationships.",
+      "action": "Show empathy in patient consultations to build trust."
+    },
+    {
+      "name": "Cooperation",
+      "score": -1.5,
+      "description": "Supports team-based patient care.",
+      "action": "Collaborate on a patient care plan to demonstrate cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -1.5,
+      "description": "Ensures smooth clinical operations.",
+      "action": "Coordinate a clinical team task to show coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -1.5,
+      "description": "Builds trust in patient interactions.",
+      "action": "Practice transparent communication in patient consultations."
+    },
+    {
+      "name": "Patience",
+      "score": -1.5,
+      "description": "Key for long-term patient care.",
+      "action": "Demonstrate patience in a chronic care scenario."
+    },
+    {
+      "name": "Fear Management",
+      "score": -1.5,
+      "description": "Reduces anxiety in high-stakes medical situations.",
+      "action": "Share fear management strategies in a clinical setting."
+    },
+    {
+      "name": "Balance",
+      "score": -1.5,
+      "description": "Maintains stability in demanding healthcare roles.",
+      "action": "Maintain work-life balance to demonstrate stability."
+    },
+    {
+      "name": "Persuasive",
+      "score": -1.5,
+      "description": "Convinces patients of treatment plans.",
+      "action": "Deliver a persuasive health recommendation to showcase skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -1.5,
+      "description": "Enhances patient education.",
+      "action": "Craft a compelling health narrative for patients."
+    },
+    {
+      "name": "Discerning",
+      "score": -1.5,
+      "description": "Supports evaluation of treatment efficacy.",
+      "action": "Evaluate a treatment outcome to show discernment."
+    },
+    {
+      "name": "Innovative",
+      "score": -1.5,
+      "description": "Drives novel healthcare solutions.",
+      "action": "Propose a creative medical intervention in a meeting."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -1.5,
+      "description": "Aids in understanding medical systems.",
+      "action": "Explain a medical concept to colleagues to show conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -1.5,
+      "description": "Supports medical research analysis.",
+      "action": "Build a statistical health model to demonstrate quantitative skills."
+    },
+    {
+      "name": "Methodical",
+      "score": -1.5,
+      "description": "Ensures systematic clinical processes.",
+      "action": "Develop a clinical workflow to showcase methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -1.5,
+      "description": "Enhances data-driven medical decisions.",
+      "action": "Perform a patient data analysis to demonstrate analytic skills."
+    },
+    {
+      "name": "Imaginative",
+      "score": -1.5,
+      "description": "Fosters creative healthcare solutions.",
+      "action": "Propose an imaginative treatment idea to show creativity."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -1.5,
+      "description": "Improves visual appeal of health materials.",
+      "action": "Design a polished patient education poster to showcase aesthetics."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -1.5,
+      "description": "Strengthens healthcare team collaboration.",
+      "action": "Lead a team patient care project to demonstrate team orientation."
+    }
+  ]
+}

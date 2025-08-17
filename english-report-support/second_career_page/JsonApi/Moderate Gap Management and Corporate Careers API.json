@@ -1,0 +1,408 @@
+{
+  "career": "Management and Corporate Careers",
+  "category": "Moderate Gap",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -2.5,
+      "description": "Supports achieving corporate objectives.",
+      "action": "Set SMART goals for a business project using SMM’s progress tracker."
+    },
+    {
+      "name": "Strength",
+      "score": -2.5,
+      "description": "Enhances mental resilience for high-pressure roles.",
+      "action": "Practice daily yoga to build mental fortitude, guided by SMM wellness sessions."
+    },
+    {
+      "name": "Accurate",
+      "score": -2.5,
+      "description": "Ensures precision in financial reports or data.",
+      "action": "Use SMM’s focus-enhancing neurofeedback to improve accuracy in reporting."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -2.5,
+      "description": "Aids in solving business problems.",
+      "action": "Solve business logic puzzles daily to sharpen reasoning skills."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -2.5,
+      "description": "Helps visualize organizational structures.",
+      "action": "Practice creating org charts to enhance spatial visualization."
+    },
+    {
+      "name": "Dexterity",
+      "score": -2.5,
+      "description": "Improves efficiency in task execution.",
+      "action": "Practice streamlining workflows to boost dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -2.5,
+      "description": "Boosts stamina for demanding schedules.",
+      "action": "Join a fitness program to improve physical endurance for corporate roles."
+    },
+    {
+      "name": "Melodic",
+      "score": -2.5,
+      "description": "Enhances presentations with engaging tones.",
+      "action": "Practice vocal exercises to develop a clear presentation style."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -2.5,
+      "description": "Improves design of corporate visuals.",
+      "action": "Create presentation slides using design software like Canva."
+    },
+    {
+      "name": "Creativity",
+      "score": -2.5,
+      "description": "Fosters innovative business solutions.",
+      "action": "Brainstorm new strategies in SMM’s creative workshops."
+    },
+    {
+      "name": "Observational",
+      "score": -2.5,
+      "description": "Helps identify team dynamics or market trends.",
+      "action": "Practice mindfulness to improve attention to business details."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -2.5,
+      "description": "Resolves corporate challenges.",
+      "action": "Tackle business case studies to hone problem-solving skills."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -2.5,
+      "description": "Supports informed business choices.",
+      "action": "Practice decision-making with SMM’s business simulations."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -2.5,
+      "description": "Aids in long-term business planning.",
+      "action": "Develop a mock corporate strategy plan to practice planning."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -2.5,
+      "description": "Enhances evaluation of business strategies.",
+      "action": "Analyze a business journal article to sharpen critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -2.5,
+      "description": "Improves stakeholder interactions.",
+      "action": "Practice public speaking with SMM’s communication exercises."
+    },
+    {
+      "name": "Teamwork",
+      "score": -2.5,
+      "description": "Strengthens team collaboration.",
+      "action": "Join a group business project to enhance team dynamics."
+    },
+    {
+      "name": "Leadership",
+      "score": -2.5,
+      "description": "Guides corporate teams effectively.",
+      "action": "Take a leadership role in a small business initiative."
+    },
+    {
+      "name": "Negotiation",
+      "score": -2.5,
+      "description": "Secures favorable business deals.",
+      "action": "Role-play negotiation scenarios with SMM mentors."
+    },
+    {
+      "name": "Drive",
+      "score": -2.5,
+      "description": "Fuels motivation for business goals.",
+      "action": "Set weekly business targets and track them with SMM tools."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -2.5,
+      "description": "Encourages continuous professional learning.",
+      "action": "Read business journals to foster a growth mindset."
+    },
+    {
+      "name": "Resilience",
+      "score": -2.5,
+      "description": "Helps overcome corporate setbacks.",
+      "action": "Practice stress-relief techniques like yoga to build resilience."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -2.5,
+      "description": "Boosts confidence in business tasks.",
+      "action": "Reflect on past business successes using SMM’s journaling exercises."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -2.5,
+      "description": "Sustains passion for corporate success.",
+      "action": "Document personal reasons for pursuing corporate goals to stay motivated."
+    },
+    {
+      "name": "Adaptability",
+      "score": -2.5,
+      "description": "Enables adjustment to market changes.",
+      "action": "Learn a new business tool or process to improve adaptability."
+    },
+    {
+      "name": "Time Management",
+      "score": -2.5,
+      "description": "Ensures meeting corporate deadlines.",
+      "action": "Use SMM’s time-tracking tools to prioritize business tasks."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -2.5,
+      "description": "Drives initiative in business strategies.",
+      "action": "Propose a new business initiative in team meetings to practice proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -2.5,
+      "description": "Supports data-driven decisions.",
+      "action": "Practice analyzing business data with online tutorials."
+    },
+    {
+      "name": "Programming",
+      "score": -2.5,
+      "description": "Aids in automating business processes.",
+      "action": "Learn basic Python for business automation through online courses."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -2.5,
+      "description": "Enhances financial assessments.",
+      "action": "Take online quizzes on business math reasoning."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -2.5,
+      "description": "Resolves IT issues in operations.",
+      "action": "Practice troubleshooting business software with SMM tech support."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -2.5,
+      "description": "Improves market trend analysis.",
+      "action": "Conduct a market observation study to enhance observational skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -2.5,
+      "description": "Fosters innovative business solutions.",
+      "action": "Apply design thinking in a business brainstorming session."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -2.5,
+      "description": "Enhances team and client relations.",
+      "action": "Practice active listening in corporate interactions."
+    },
+    {
+      "name": "Resistance",
+      "score": -2.5,
+      "description": "Builds endurance against corporate stress.",
+      "action": "Use SMM’s mindfulness practices to manage stress."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -2.5,
+      "description": "Strengthens team trust through empathy.",
+      "action": "Practice empathetic communication in team meetings."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -2.5,
+      "description": "Supports rapid financial calculations.",
+      "action": "Solve daily business math puzzles to sharpen numerical skills."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -2.5,
+      "description": "Aids in visualizing business models.",
+      "action": "Create visual business models with diagramming tools."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -2.5,
+      "description": "Enhances business data analysis.",
+      "action": "Use SMM’s mindfulness exercises to improve focus during analysis."
+    },
+    {
+      "name": "Compassion",
+      "score": -2.5,
+      "description": "Builds trust in corporate relationships.",
+      "action": "Volunteer in a corporate social responsibility program to practice compassion."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -2.5,
+      "description": "Encourages diverse business approaches.",
+      "action": "Explore interdisciplinary business strategies in discussions."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -2.5,
+      "description": "Drives business curiosity.",
+      "action": "Formulate new business research questions in team sessions."
+    },
+    {
+      "name": "Precision",
+      "score": -2.5,
+      "description": "Ensures accuracy in business operations.",
+      "action": "Practice precise data entry or reporting tasks."
+    },
+    {
+      "name": "Organization",
+      "score": -2.5,
+      "description": "Vital for managing corporate projects.",
+      "action": "Implement a digital planner to streamline business tasks."
+    },
+    {
+      "name": "Responsibility",
+      "score": -2.5,
+      "description": "Ensures accountability in business tasks.",
+      "action": "Manage a small business task to show responsibility."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -2.5,
+      "description": "Supports consistent business performance.",
+      "action": "Maintain a study schedule for business certifications with SMM tools."
+    },
+    {
+      "name": "Agility",
+      "score": -2.5,
+      "description": "Enables quick adaptation to business changes.",
+      "action": "Practice rapid decision-making in business simulations."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -2.5,
+      "description": "Aids in advocating business strategies.",
+      "action": "Advocate for a strategy in a team meeting to practice assertiveness."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -2.5,
+      "description": "Enhances corporate presentations.",
+      "action": "Practice concise presentations to balance talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -2.5,
+      "description": "Strengthens team relationships.",
+      "action": "Use SMM’s emotional intelligence exercises to deepen empathy."
+    },
+    {
+      "name": "Cooperation",
+      "score": -2.5,
+      "description": "Supports collaborative business projects.",
+      "action": "Collaborate on a group business initiative to enhance cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -2.5,
+      "description": "Ensures smooth business operations.",
+      "action": "Coordinate a corporate project to practice coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -2.5,
+      "description": "Builds trust in business collaborations.",
+      "action": "Practice transparent communication in business reports."
+    },
+    {
+      "name": "Patience",
+      "score": -2.5,
+      "description": "Key for long-term business strategies.",
+      "action": "Practice mindfulness to cultivate patience during projects."
+    },
+    {
+      "name": "Fear Management",
+      "score": -2.5,
+      "description": "Reduces anxiety in high-stakes decisions.",
+      "action": "Use SMM’s neurofeedback to manage fear responses."
+    },
+    {
+      "name": "Balance",
+      "score": -2.5,
+      "description": "Maintains stability in demanding roles.",
+      "action": "Practice work-life balance with SMM’s wellness tools."
+    },
+    {
+      "name": "Persuasive",
+      "score": -2.5,
+      "description": "Convinces stakeholders of business value.",
+      "action": "Attend persuasion workshops to refine pitch skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -2.5,
+      "description": "Enhances corporate presentations.",
+      "action": "Craft a compelling business narrative for a meeting."
+    },
+    {
+      "name": "Discerning",
+      "score": -2.5,
+      "description": "Supports evaluation of business opportunities.",
+      "action": "Review a business proposal to improve discernment."
+    },
+    {
+      "name": "Innovative",
+      "score": -2.5,
+      "description": "Drives novel business strategies.",
+      "action": "Propose a creative business solution in a meeting."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -2.5,
+      "description": "Aids in understanding business models.",
+      "action": "Study business theories to enhance conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -2.5,
+      "description": "Supports financial analysis.",
+      "action": "Practice statistical exercises in business analytics courses."
+    },
+    {
+      "name": "Methodical",
+      "score": -2.5,
+      "description": "Ensures systematic business processes.",
+      "action": "Develop a business workflow to improve methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -2.5,
+      "description": "Enhances data-driven decisions.",
+      "action": "Use SMM’s focus tools for analytical business tasks."
+    },
+    {
+      "name": "Imaginative",
+      "score": -2.5,
+      "description": "Fosters creative business solutions.",
+      "action": "Brainstorm innovative business ideas in team sessions."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -2.5,
+      "description": "Improves corporate branding visuals.",
+      "action": "Design polished branding materials for a project."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -2.5,
+      "description": "Strengthens corporate team collaboration.",
+      "action": "Participate in a team business project to enhance team orientation."
+    }
+  ]
+}

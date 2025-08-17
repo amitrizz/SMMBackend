@@ -1,0 +1,408 @@
+{
+  "career": "Management and Corporate Careers",
+  "category": "Strength",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -1.5,
+      "description": "Drives achievement of corporate objectives.",
+      "action": "Set and track team KPIs using SMM’s progress tracker to showcase ambition."
+    },
+    {
+      "name": "Strength",
+      "score": -1.5,
+      "description": "Enhances mental resilience for high-pressure roles.",
+      "action": "Lead a challenging corporate project to demonstrate fortitude."
+    },
+    {
+      "name": "Accurate",
+      "score": -1.5,
+      "description": "Ensures precision in financial reports or data.",
+      "action": "Deliver a flawless report to highlight accuracy."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -1.5,
+      "description": "Aids in solving business problems.",
+      "action": "Apply logic in a strategic analysis to showcase expertise."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -1.5,
+      "description": "Helps visualize organizational structures.",
+      "action": "Design a clear org chart to display spatial skills."
+    },
+    {
+      "name": "Dexterity",
+      "score": -1.5,
+      "description": "Improves efficiency in task execution.",
+      "action": "Streamline a workflow process to demonstrate dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -1.5,
+      "description": "Boosts stamina for demanding schedules.",
+      "action": "Maintain a fitness routine to sustain energy in corporate roles."
+    },
+    {
+      "name": "Melodic",
+      "score": -1.5,
+      "description": "Enhances presentations with engaging tones.",
+      "action": "Use vocal clarity in a corporate pitch to captivate audiences."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -1.5,
+      "description": "Improves design of corporate visuals.",
+      "action": "Create polished presentation slides to showcase aesthetic skills."
+    },
+    {
+      "name": "Creativity",
+      "score": -1.5,
+      "description": "Fosters innovative business solutions.",
+      "action": "Propose a novel strategy in a team meeting to highlight creativity."
+    },
+    {
+      "name": "Observational",
+      "score": -1.5,
+      "description": "Helps identify team dynamics or market trends.",
+      "action": "Share market insights in a strategy session to demonstrate skill."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -1.5,
+      "description": "Resolves corporate challenges effectively.",
+      "action": "Lead a business case analysis to showcase problem-solving."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -1.5,
+      "description": "Supports confident business choices.",
+      "action": "Make strategic decisions in a business simulation to demonstrate capability."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -1.5,
+      "description": "Enhances long-term business planning.",
+      "action": "Develop a corporate strategy plan to highlight planning skills."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -1.5,
+      "description": "Improves evaluation of business strategies.",
+      "action": "Lead a peer review of a business proposal to showcase critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -1.5,
+      "description": "Enhances stakeholder interactions.",
+      "action": "Deliver a clear corporate presentation to showcase communication skills."
+    },
+    {
+      "name": "Teamwork",
+      "score": -1.5,
+      "description": "Strengthens team collaboration.",
+      "action": "Lead a collaborative project to demonstrate teamwork."
+    },
+    {
+      "name": "Leadership",
+      "score": -1.5,
+      "description": "Guides corporate teams effectively.",
+      "action": "Mentor a junior employee to show leadership."
+    },
+    {
+      "name": "Negotiation",
+      "score": -1.5,
+      "description": "Secures favorable business deals.",
+      "action": "Negotiate a mock contract to highlight negotiation skills."
+    },
+    {
+      "name": "Drive",
+      "score": -1.5,
+      "description": "Fuels motivation for business goals.",
+      "action": "Pursue a challenging corporate target to showcase drive."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -1.5,
+      "description": "Encourages continuous professional learning.",
+      "action": "Share insights from a business book in a team meeting."
+    },
+    {
+      "name": "Resilience",
+      "score": -1.5,
+      "description": "Helps navigate corporate setbacks.",
+      "action": "Share strategies for overcoming project failures in a team discussion."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -1.5,
+      "description": "Boosts confidence in business tasks.",
+      "action": "Present a confident business proposal to demonstrate self-efficacy."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -1.5,
+      "description": "Sustains passion for corporate success.",
+      "action": "Share personal motivations in a leadership discussion to inspire others."
+    },
+    {
+      "name": "Adaptability",
+      "score": -1.5,
+      "description": "Enables adjustment to market changes.",
+      "action": "Adapt a business strategy to new data to show flexibility."
+    },
+    {
+      "name": "Time Management",
+      "score": -1.5,
+      "description": "Ensures meeting corporate deadlines.",
+      "action": "Organize a project timeline to demonstrate time management."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -1.5,
+      "description": "Drives initiative in business strategies.",
+      "action": "Propose a new business initiative to showcase proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -1.5,
+      "description": "Supports data-driven decisions.",
+      "action": "Create a data-driven business report to highlight analytical skills."
+    },
+    {
+      "name": "Programming",
+      "score": -1.5,
+      "description": "Aids in automating business processes.",
+      "action": "Develop a simple automation script to show technical skills."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -1.5,
+      "description": "Enhances financial assessments.",
+      "action": "Solve complex financial problems to demonstrate reasoning."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -1.5,
+      "description": "Resolves IT issues in operations.",
+      "action": "Fix a software issue to show troubleshooting skills."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -1.5,
+      "description": "Improves market trend analysis.",
+      "action": "Present a trend analysis to highlight observation skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -1.5,
+      "description": "Fosters innovative business solutions.",
+      "action": "Design a creative business process to showcase design thinking."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -1.5,
+      "description": "Enhances team and client relations.",
+      "action": "Build rapport in a corporate team to demonstrate emotional intelligence."
+    },
+    {
+      "name": "Resistance",
+      "score": -1.5,
+      "description": "Builds endurance against corporate stress.",
+      "action": "Share stress management tips in a team setting."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -1.5,
+      "description": "Strengthens team trust through empathy.",
+      "action": "Express empathy in a team meeting to build trust."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -1.5,
+      "description": "Supports rapid financial calculations.",
+      "action": "Perform quick calculations in a business meeting to show aptitude."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -1.5,
+      "description": "Aids in visualizing business models.",
+      "action": "Create a visual business model to demonstrate spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -1.5,
+      "description": "Enhances business data analysis.",
+      "action": "Analyze a dataset to showcase analytical skills."
+    },
+    {
+      "name": "Compassion",
+      "score": -1.5,
+      "description": "Builds trust in corporate relationships.",
+      "action": "Show compassion in team interactions to strengthen relationships."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -1.5,
+      "description": "Encourages diverse business approaches.",
+      "action": "Propose an interdisciplinary business idea to highlight eclecticism."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -1.5,
+      "description": "Drives business curiosity.",
+      "action": "Share a research question in a strategy discussion to demonstrate curiosity."
+    },
+    {
+      "name": "Precision",
+      "score": -1.5,
+      "description": "Ensures accuracy in business operations.",
+      "action": "Deliver a precise financial report to showcase precision."
+    },
+    {
+      "name": "Organization",
+      "score": -1.5,
+      "description": "Vital for managing corporate projects.",
+      "action": "Organize a project’s resources to show organizational skills."
+    },
+    {
+      "name": "Responsibility",
+      "score": -1.5,
+      "description": "Ensures accountability in business tasks.",
+      "action": "Take ownership of a corporate task to highlight responsibility."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -1.5,
+      "description": "Supports consistent business performance.",
+      "action": "Maintain a disciplined work schedule to demonstrate self-discipline."
+    },
+    {
+      "name": "Agility",
+      "score": -1.5,
+      "description": "Enables quick adaptation to business changes.",
+      "action": "Respond swiftly in a business simulation to show agility."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -1.5,
+      "description": "Aids in advocating business strategies.",
+      "action": "Present a business proposal confidently to demonstrate assertiveness."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -1.5,
+      "description": "Enhances corporate presentations.",
+      "action": "Engage audiences in a business pitch to showcase talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -1.5,
+      "description": "Strengthens team relationships.",
+      "action": "Show empathy in corporate meetings to build trust."
+    },
+    {
+      "name": "Cooperation",
+      "score": -1.5,
+      "description": "Supports collaborative business projects.",
+      "action": "Collaborate on a group business initiative to demonstrate cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -1.5,
+      "description": "Ensures smooth business operations.",
+      "action": "Coordinate a corporate project to show coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -1.5,
+      "description": "Builds trust in business collaborations.",
+      "action": "Practice transparent communication in business reports."
+    },
+    {
+      "name": "Patience",
+      "score": -1.5,
+      "description": "Key for long-term business strategies.",
+      "action": "Demonstrate patience in a long-term project to showcase composure."
+    },
+    {
+      "name": "Fear Management",
+      "score": -1.5,
+      "description": "Reduces anxiety in high-stakes decisions.",
+      "action": "Share fear management strategies in a corporate setting."
+    },
+    {
+      "name": "Balance",
+      "score": -1.5,
+      "description": "Maintains stability in demanding roles.",
+      "action": "Maintain work-life balance to demonstrate stability."
+    },
+    {
+      "name": "Persuasive",
+      "score": -1.5,
+      "description": "Convinces stakeholders of business value.",
+      "action": "Deliver a persuasive business pitch to showcase skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -1.5,
+      "description": "Enhances corporate presentations.",
+      "action": "Craft a compelling business narrative for a stakeholder meeting."
+    },
+    {
+      "name": "Discerning",
+      "score": -1.5,
+      "description": "Supports evaluation of business opportunities.",
+      "action": "Review a business proposal to show discernment."
+    },
+    {
+      "name": "Innovative",
+      "score": -1.5,
+      "description": "Drives novel business strategies.",
+      "action": "Propose a creative business solution to showcase innovation."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -1.5,
+      "description": "Aids in understanding business models.",
+      "action": "Explain a business concept to colleagues to show conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -1.5,
+      "description": "Supports financial analysis.",
+      "action": "Build a financial model to demonstrate quantitative skills."
+    },
+    {
+      "name": "Methodical",
+      "score": -1.5,
+      "description": "Ensures systematic business processes.",
+      "action": "Develop a business workflow to showcase methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -1.5,
+      "description": "Enhances data-driven decisions.",
+      "action": "Perform a data analysis to demonstrate analytic skills."
+    },
+    {
+      "name": "Imaginative",
+      "score": -1.5,
+      "description": "Fosters creative business solutions.",
+      "action": "Propose an imaginative business strategy to show creativity."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -1.5,
+      "description": "Improves corporate branding visuals.",
+      "action": "Design a polished corporate logo to showcase aesthetics."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -1.5,
+      "description": "Strengthens corporate team collaboration.",
+      "action": "Lead a team business project to demonstrate team orientation."
+    }
+  ]
+}

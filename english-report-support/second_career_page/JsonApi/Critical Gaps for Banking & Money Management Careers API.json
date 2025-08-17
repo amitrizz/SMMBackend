@@ -1,0 +1,408 @@
+{
+  "career": "Banking & Money Management Careers",
+  "category": "Critical Gap",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -4.500,
+      "description": "Drives achievement of financial targets and client objectives.",
+      "action": "Set SMART goals for financial projects and track progress using SMM's progress tracker."
+    },
+    {
+      "name": "Strength",
+      "score": -4.500,
+      "description": "Builds mental fortitude for handling market volatility.",
+      "action": "Practice daily yoga to enhance mental resilience, guided by SMM mindfulness sessions."
+    },
+    {
+      "name": "Accurate",
+      "score": -4.500,
+      "description": "Ensures error-free financial reports and calculations.",
+      "action": "Use SMM's focus-enhancing neurofeedback to improve accuracy in auditing tasks."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -4.500,
+      "description": "Essential for solving complex financial problems.",
+      "action": "Solve logic puzzles daily to sharpen reasoning skills."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -4.500,
+      "description": "Aids in visualizing financial data layouts or portfolio structures.",
+      "action": "Practice data visualization with tools like Tableau to enhance spatial skills."
+    },
+    {
+      "name": "Dexterity",
+      "score": -4.500,
+      "description": "Supports efficient handling of financial tools or presentations.",
+      "action": "Engage in fine-motor skill exercises like typing drills to improve dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -4.500,
+      "description": "Enhances stamina for long work hours in finance.",
+      "action": "Join a fitness program to boost physical endurance, supported by SMM wellness practices."
+    },
+    {
+      "name": "Melodic",
+      "score": -4.500,
+      "description": "Improves client engagement through soothing communication tones.",
+      "action": "Practice vocal exercises to develop a calming presentation style."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -4.500,
+      "description": "Enhances creative financial storytelling for clients.",
+      "action": "Create visually appealing financial reports using design software."
+    },
+    {
+      "name": "Creativity",
+      "score": -4.500,
+      "description": "Fosters innovative financial solutions.",
+      "action": "Brainstorm new investment strategies in SMM's creative workshops."
+    },
+    {
+      "name": "Observational",
+      "score": -4.500,
+      "description": "Critical for spotting market trends or client needs.",
+      "action": "Practice mindfulness to improve attention to financial details."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -4.500,
+      "description": "Key for resolving financial discrepancies.",
+      "action": "Tackle financial case studies to hone problem-solving skills."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -4.018,
+      "description": "Crucial for quick, informed choices in high-stakes environments.",
+      "action": "Practice case studies with SMM's Muse-2 EEG neurofeedback to improve focus."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -4.067,
+      "description": "Key for long-term financial forecasting.",
+      "action": "Participate in financial strategy simulations to develop planning skills."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -4.500,
+      "description": "Vital for evaluating investment risks.",
+      "action": "Lead team discussions on financial strategies to sharpen critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -5.631,
+      "description": "Essential for presenting financial plans and negotiating with clients.",
+      "action": "Join a Toastmasters club to practice clear, persuasive communication."
+    },
+    {
+      "name": "Teamwork",
+      "score": -4.500,
+      "description": "Supports collaboration in financial advisory teams.",
+      "action": "Participate in group projects to enhance team dynamics."
+    },
+    {
+      "name": "Leadership",
+      "score": -4.500,
+      "description": "Drives team success in financial projects.",
+      "action": "Take a leadership role in a community finance initiative."
+    },
+    {
+      "name": "Negotiation",
+      "score": -4.500,
+      "description": "Key for securing client deals.",
+      "action": "Role-play negotiation scenarios with SMM mentors."
+    },
+    {
+      "name": "Drive",
+      "score": -4.500,
+      "description": "Fuels motivation to meet financial targets.",
+      "action": "Set personal financial goals and review them weekly with SMM's goal tracker."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -4.500,
+      "description": "Encourages continuous learning in finance.",
+      "action": "Read finance books (e.g., *The Intelligent Investor*) to foster a growth mindset."
+    },
+    {
+      "name": "Resilience",
+      "score": -4.500,
+      "description": "Helps navigate market downturns.",
+      "action": "Practice stress-relief techniques like meditation to build resilience."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -4.500,
+      "description": "Boosts confidence in financial decision-making.",
+      "action": "Reflect on past successes using SMM's journaling exercises."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -4.500,
+      "description": "Sustains passion for financial excellence.",
+      "action": "Identify personal reasons for pursuing finance and document them."
+    },
+    {
+      "name": "Adaptability",
+      "score": -4.500,
+      "description": "Enables adjustment to market changes.",
+      "action": "Engage in diverse financial projects to improve flexibility."
+    },
+    {
+      "name": "Time Management",
+      "score": -4.500,
+      "description": "Ensures meeting financial deadlines.",
+      "action": "Use SMM's time-tracking tools to prioritize tasks."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -4.500,
+      "description": "Drives initiative in financial planning.",
+      "action": "Propose new strategies in team meetings to practice proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -5.233,
+      "description": "Critical for interpreting financial data and trends.",
+      "action": "Enroll in an Excel or SQL course on Coursera to enhance analytical skills."
+    },
+    {
+      "name": "Programming",
+      "score": -4.500,
+      "description": "Useful for automating financial models.",
+      "action": "Learn Python for finance through online tutorials."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -4.500,
+      "description": "Supports logical financial assessments.",
+      "action": "Take online quizzes on financial reasoning."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -4.500,
+      "description": "Aids in resolving financial software issues.",
+      "action": "Practice troubleshooting Excel macros with SMM tech support."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -4.500,
+      "description": "Enhances analysis of market patterns.",
+      "action": "Study market reports to improve observational skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -4.500,
+      "description": "Fosters innovative financial product design.",
+      "action": "Attend design thinking workshops to apply to financial solutions."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -4.500,
+      "description": "Improves client relationship management.",
+      "action": "Practice active listening in client role-plays."
+    },
+    {
+      "name": "Resistance",
+      "score": -4.500,
+      "description": "Builds endurance against financial stress.",
+      "action": "Use SMM's mindfulness practices to manage stress."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -4.500,
+      "description": "Enhances client trust through empathy.",
+      "action": "Practice expressing empathy in client mock meetings."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -4.500,
+      "description": "Supports rapid financial calculations.",
+      "action": "Solve daily math puzzles to sharpen numerical skills."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -4.500,
+      "description": "Aids in visualizing financial portfolios.",
+      "action": "Create portfolio dashboards to enhance spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -4.500,
+      "description": "Key for dissecting financial data.",
+      "action": "Analyze case studies with SMM's focus tools."
+    },
+    {
+      "name": "Compassion",
+      "score": -4.500,
+      "description": "Builds client trust in advisory roles.",
+      "action": "Volunteer in community finance programs to practice compassion."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -4.500,
+      "description": "Encourages diverse financial strategies.",
+      "action": "Explore unconventional investment options in discussions."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -4.500,
+      "description": "Drives research into market trends.",
+      "action": "Subscribe to financial journals to fuel curiosity."
+    },
+    {
+      "name": "Precision",
+      "score": -4.500,
+      "description": "Ensures accuracy in financial reports.",
+      "action": "Volunteer for auditing tasks to demonstrate precision."
+    },
+    {
+      "name": "Organization",
+      "score": -4.500,
+      "description": "Vital for managing financial records.",
+      "action": "Implement a digital planner to streamline tasks."
+    },
+    {
+      "name": "Responsibility",
+      "score": -4.500,
+      "description": "Ensures accountability in finance.",
+      "action": "Manage a small budget for a community project."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -4.500,
+      "description": "Supports consistent financial performance.",
+      "action": "Maintain a study schedule for CFA certification."
+    },
+    {
+      "name": "Agility",
+      "score": -4.500,
+      "description": "Enables quick responses to market shifts.",
+      "action": "Practice rapid decision-making in financial simulations."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -4.500,
+      "description": "Aids in advocating financial plans.",
+      "action": "Practice assertive communication in team meetings."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -4.500,
+      "description": "Enhances client engagement.",
+      "action": "Practice concise pitching to balance talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -4.500,
+      "description": "Strengthens client relationships.",
+      "action": "Use SMM's emotional intelligence exercises to deepen empathy."
+    },
+    {
+      "name": "Cooperation",
+      "score": -4.500,
+      "description": "Supports team-based financial projects.",
+      "action": "Collaborate on a group financial plan."
+    },
+    {
+      "name": "Coordination",
+      "score": -4.500,
+      "description": "Ensures smooth project execution.",
+      "action": "Lead a small financial team to practice coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -4.500,
+      "description": "Builds trust in client interactions.",
+      "action": "Practice transparent communication in presentations."
+    },
+    {
+      "name": "Patience",
+      "score": -4.500,
+      "description": "Key for long-term financial planning.",
+      "action": "Practice mindfulness to cultivate patience."
+    },
+    {
+      "name": "Fear Management",
+      "score": -4.500,
+      "description": "Reduces anxiety in volatile markets.",
+      "action": "Use SMM's neurofeedback to manage fear responses."
+    },
+    {
+      "name": "Balance",
+      "score": -4.500,
+      "description": "Maintains stability in high-pressure roles.",
+      "action": "Practice work-life balance with SMM's wellness tools."
+    },
+    {
+      "name": "Persuasive",
+      "score": -4.500,
+      "description": "Convinces clients of financial plans.",
+      "action": "Attend persuasion workshops to refine skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -4.500,
+      "description": "Enhances financial presentations.",
+      "action": "Craft compelling financial narratives for clients."
+    },
+    {
+      "name": "Discerning",
+      "score": -4.500,
+      "description": "Supports risk evaluation.",
+      "action": "Analyze financial risks in case studies."
+    },
+    {
+      "name": "Innovative",
+      "score": -4.500,
+      "description": "Drives novel financial strategies.",
+      "action": "Propose creative solutions in team brainstorming."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -4.500,
+      "description": "Aids in understanding financial systems.",
+      "action": "Study economic theories to enhance conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -4.500,
+      "description": "Supports financial modeling.",
+      "action": "Practice quantitative exercises in finance courses."
+    },
+    {
+      "name": "Methodical",
+      "score": -4.500,
+      "description": "Ensures systematic financial processes.",
+      "action": "Create workflows for budgeting tasks."
+    },
+    {
+      "name": "Analytic",
+      "score": -4.500,
+      "description": "Enhances data-driven decisions.",
+      "action": "Use SMM's focus tools for analytical tasks."
+    },
+    {
+      "name": "Imaginative",
+      "score": -4.500,
+      "description": "Fosters creative financial solutions.",
+      "action": "Brainstorm innovative investment ideas."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -4.500,
+      "description": "Improves visual appeal of financial reports.",
+      "action": "Design polished financial dashboards."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -4.500,
+      "description": "Strengthens team collaboration.",
+      "action": "Lead a team project to enhance team orientation."
+    }
+  ]
+}

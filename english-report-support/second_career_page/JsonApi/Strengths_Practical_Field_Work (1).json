@@ -1,0 +1,408 @@
+{
+  "career": "Practical & Field Work Careers",
+  "category": "Strength",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -1.5,
+      "description": "Drives completion of field projects.",
+      "action": "Set and track task milestones for a field job using SMM\u2019s progress tracker."
+    },
+    {
+      "name": "Strength",
+      "score": -1.5,
+      "description": "Enhances physical and mental endurance in demanding tasks.",
+      "action": "Lead a physically intensive field task to showcase resilience."
+    },
+    {
+      "name": "Accurate",
+      "score": -1.5,
+      "description": "Ensures precision in measurements or repairs.",
+      "action": "Deliver a precise technical repair to highlight accuracy."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -1.5,
+      "description": "Aids in troubleshooting field equipment.",
+      "action": "Solve a technical issue on-site to showcase logical skills."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -1.5,
+      "description": "Helps navigate complex field environments.",
+      "action": "Map a work site layout to demonstrate spatial awareness."
+    },
+    {
+      "name": "Dexterity",
+      "score": -1.5,
+      "description": "Improves handling of tools or equipment.",
+      "action": "Perform a complex manual task to showcase dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -1.5,
+      "description": "Boosts stamina for physically demanding roles.",
+      "action": "Maintain a fitness routine to sustain energy in field tasks."
+    },
+    {
+      "name": "Melodic",
+      "score": -1.5,
+      "description": "Enhances team morale through engaging communication.",
+      "action": "Use clear vocal instructions during a field operation to boost team coordination."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -1.5,
+      "description": "Improves aesthetic field outputs (e.g., landscaping).",
+      "action": "Design a visually appealing field project to showcase creativity."
+    },
+    {
+      "name": "Creativity",
+      "score": -1.5,
+      "description": "Fosters innovative field solutions.",
+      "action": "Propose a novel approach to a field challenge to highlight creativity."
+    },
+    {
+      "name": "Observational",
+      "score": -1.5,
+      "description": "Detects environmental or equipment issues.",
+      "action": "Identify a field hazard during a safety check to demonstrate observation."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -1.5,
+      "description": "Resolves on-site challenges effectively.",
+      "action": "Address a field equipment failure to showcase problem-solving."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -1.5,
+      "description": "Supports quick field judgments.",
+      "action": "Make a critical on-site decision to demonstrate capability."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -1.5,
+      "description": "Enhances field project efficiency.",
+      "action": "Plan a field operation workflow to highlight strategic skills."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -1.5,
+      "description": "Improves evaluation of field risks.",
+      "action": "Assess a field safety protocol to showcase critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -1.5,
+      "description": "Ensures clear team coordination on-site.",
+      "action": "Lead a field team briefing to demonstrate communication skills."
+    },
+    {
+      "name": "Teamwork",
+      "score": -1.5,
+      "description": "Strengthens field crew collaboration.",
+      "action": "Coordinate a team-based field task to demonstrate teamwork."
+    },
+    {
+      "name": "Leadership",
+      "score": -1.5,
+      "description": "Guides field teams effectively.",
+      "action": "Supervise a field crew to show leadership."
+    },
+    {
+      "name": "Negotiation",
+      "score": -1.5,
+      "description": "Secures resources for field operations.",
+      "action": "Negotiate equipment allocation in a mock scenario to highlight skills."
+    },
+    {
+      "name": "Drive",
+      "score": -1.5,
+      "description": "Fuels motivation for field tasks.",
+      "action": "Pursue a challenging field project to showcase drive."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -1.5,
+      "description": "Encourages skill development in field work.",
+      "action": "Share insights from a technical training in a team meeting."
+    },
+    {
+      "name": "Resilience",
+      "score": -1.5,
+      "description": "Helps overcome field setbacks.",
+      "action": "Share strategies for managing field challenges with colleagues."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -1.5,
+      "description": "Boosts confidence in field tasks.",
+      "action": "Tackle a complex field repair to demonstrate self-efficacy."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -1.5,
+      "description": "Sustains passion for field work.",
+      "action": "Share personal motivations in a field team discussion to inspire others."
+    },
+    {
+      "name": "Adaptability",
+      "score": -1.5,
+      "description": "Enables adjustment to dynamic field conditions.",
+      "action": "Adapt to a sudden field change to show flexibility."
+    },
+    {
+      "name": "Time Management",
+      "score": -1.5,
+      "description": "Ensures timely completion of field tasks.",
+      "action": "Organize a field project timeline to demonstrate time management."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -1.5,
+      "description": "Drives initiative in field improvements.",
+      "action": "Propose a field efficiency improvement to showcase proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -1.5,
+      "description": "Supports field data interpretation (e.g., environmental monitoring).",
+      "action": "Analyze field data to highlight analytical skills."
+    },
+    {
+      "name": "Programming",
+      "score": -1.5,
+      "description": "Aids in automating field processes.",
+      "action": "Develop a simple field monitoring script to show technical skills."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -1.5,
+      "description": "Enhances field calculations (e.g., measurements).",
+      "action": "Perform precise field measurements to demonstrate reasoning."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -1.5,
+      "description": "Resolves equipment issues on-site.",
+      "action": "Fix a field equipment fault to show troubleshooting skills."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -1.5,
+      "description": "Improves environmental or equipment monitoring.",
+      "action": "Conduct a field observation study to highlight skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -1.5,
+      "description": "Fosters innovative field solutions.",
+      "action": "Apply design thinking to optimize a field process."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -1.5,
+      "description": "Enhances field team dynamics.",
+      "action": "Build rapport with a field crew to demonstrate emotional intelligence."
+    },
+    {
+      "name": "Resistance",
+      "score": -1.5,
+      "description": "Builds endurance against field stress.",
+      "action": "Share stress management tips with a field team."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -1.5,
+      "description": "Strengthens field team trust.",
+      "action": "Express empathy during a field team briefing to build cohesion."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -1.5,
+      "description": "Supports rapid field calculations.",
+      "action": "Perform quick on-site math to show aptitude."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -1.5,
+      "description": "Aids in navigating field environments.",
+      "action": "Create a 3D site model to demonstrate spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -1.5,
+      "description": "Improves field data analysis.",
+      "action": "Analyze field performance data to showcase analytical skills."
+    },
+    {
+      "name": "Compassion",
+      "score": -1.5,
+      "description": "Builds trust in community-facing field roles.",
+      "action": "Show compassion in a community field interaction to strengthen relations."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -1.5,
+      "description": "Encourages diverse field approaches.",
+      "action": "Combine multiple techniques in a field task to highlight eclecticism."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -1.5,
+      "description": "Drives field process curiosity.",
+      "action": "Share a field improvement question in a team discussion."
+    },
+    {
+      "name": "Precision",
+      "score": -1.5,
+      "description": "Ensures accuracy in field tasks.",
+      "action": "Deliver a precise field measurement to showcase precision."
+    },
+    {
+      "name": "Organization",
+      "score": -1.5,
+      "description": "Vital for managing field resources.",
+      "action": "Organize field equipment to demonstrate organizational skills."
+    },
+    {
+      "name": "Responsibility",
+      "score": -1.5,
+      "description": "Ensures accountability in field duties.",
+      "action": "Take ownership of a field task to highlight responsibility."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -1.5,
+      "description": "Supports consistent field performance.",
+      "action": "Maintain a disciplined field work schedule to show self-discipline."
+    },
+    {
+      "name": "Agility",
+      "score": -1.5,
+      "description": "Enables quick field responses.",
+      "action": "Respond swiftly in a field emergency simulation to demonstrate agility."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -1.5,
+      "description": "Aids in advocating field needs.",
+      "action": "Confidently request field resources to showcase assertiveness."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -1.5,
+      "description": "Enhances field team communication.",
+      "action": "Engage team members in a field briefing to showcase talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -1.5,
+      "description": "Strengthens field team and community relations.",
+      "action": "Show empathy in a field interaction to build trust."
+    },
+    {
+      "name": "Cooperation",
+      "score": -1.5,
+      "description": "Supports collaborative field tasks.",
+      "action": "Collaborate on a field project to demonstrate cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -1.5,
+      "description": "Ensures smooth field operations.",
+      "action": "Coordinate a field crew task to show coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -1.5,
+      "description": "Builds trust in field interactions.",
+      "action": "Provide transparent feedback during a field debrief to show frankness."
+    },
+    {
+      "name": "Patience",
+      "score": -1.5,
+      "description": "Key for complex field tasks.",
+      "action": "Demonstrate patience during a prolonged field repair to showcase composure."
+    },
+    {
+      "name": "Fear Management",
+      "score": -1.5,
+      "description": "Reduces anxiety in high-stakes field roles.",
+      "action": "Share fear management strategies in a field training session."
+    },
+    {
+      "name": "Balance",
+      "score": -1.5,
+      "description": "Maintains stability in demanding field roles.",
+      "action": "Maintain physical balance during a field task to demonstrate stability."
+    },
+    {
+      "name": "Persuasive",
+      "score": -1.5,
+      "description": "Convinces stakeholders for field resources.",
+      "action": "Deliver a persuasive pitch for field equipment to showcase skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -1.5,
+      "description": "Enhances field training or community engagement.",
+      "action": "Share a compelling field experience to inspire team members."
+    },
+    {
+      "name": "Discerning",
+      "score": -1.5,
+      "description": "Supports evaluation of field conditions.",
+      "action": "Assess a field risk to demonstrate discernment."
+    },
+    {
+      "name": "Innovative",
+      "score": -1.5,
+      "description": "Drives novel field solutions.",
+      "action": "Propose a creative field process improvement to showcase innovation."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -1.5,
+      "description": "Aids in understanding field systems.",
+      "action": "Explain a field process to colleagues to show conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -1.5,
+      "description": "Supports field data analysis.",
+      "action": "Calculate field metrics to demonstrate quantitative skills."
+    },
+    {
+      "name": "Methodical",
+      "score": -1.5,
+      "description": "Ensures systematic field processes.",
+      "action": "Develop a field task checklist to showcase methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -1.5,
+      "description": "Enhances field problem analysis.",
+      "action": "Analyze a field issue to demonstrate analytic skills."
+    },
+    {
+      "name": "Imaginative",
+      "score": -1.5,
+      "description": "Fosters creative field approaches.",
+      "action": "Design an imaginative field solution to showcase creativity."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -1.5,
+      "description": "Improves visual field outputs (e.g., site design).",
+      "action": "Create an appealing field project layout to showcase aesthetics."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -1.5,
+      "description": "Strengthens field crew collaboration.",
+      "action": "Lead a team-based field task to demonstrate team orientation."
+    }
+  ]
+}

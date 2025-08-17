@@ -1,0 +1,408 @@
+{
+  "career": "Creative and Media Careers",
+  "category": "Strength",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -1.5,
+      "description": "Drives completion of creative projects.",
+      "action": "Set and track project milestones using SMM\u2019s progress tracker to showcase ambition."
+    },
+    {
+      "name": "Strength",
+      "score": -1.5,
+      "description": "Enhances mental resilience for tight deadlines.",
+      "action": "Lead a high-pressure media project to demonstrate fortitude."
+    },
+    {
+      "name": "Accurate",
+      "score": -1.5,
+      "description": "Ensures precision in editing or design work.",
+      "action": "Deliver a flawless content edit to highlight accuracy."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -1.5,
+      "description": "Aids in structuring media narratives.",
+      "action": "Apply logical reasoning to organize a complex storyline in a project."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -1.5,
+      "description": "Helps design visual layouts.",
+      "action": "Create a compelling layout in Adobe Illustrator to display spatial skills."
+    },
+    {
+      "name": "Dexterity",
+      "score": -1.5,
+      "description": "Improves precision in video editing or illustration.",
+      "action": "Produce a detailed digital illustration to showcase dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -1.5,
+      "description": "Boosts stamina for on-location shoots.",
+      "action": "Maintain a fitness routine to sustain energy during media productions."
+    },
+    {
+      "name": "Melodic",
+      "score": -1.5,
+      "description": "Enhances audio storytelling or voiceovers.",
+      "action": "Record a captivating voiceover to demonstrate vocal skills."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -1.5,
+      "description": "Elevates aesthetic quality of media content.",
+      "action": "Design a visually stunning media piece to showcase artistic judgment."
+    },
+    {
+      "name": "Creativity",
+      "score": -1.5,
+      "description": "Generates original content.",
+      "action": "Pitch a novel media concept in a team meeting to highlight creativity."
+    },
+    {
+      "name": "Observational",
+      "score": -1.5,
+      "description": "Captures authentic details in media.",
+      "action": "Share observational insights in a documentary or journalism project."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -1.5,
+      "description": "Resolves creative challenges effectively.",
+      "action": "Lead a solution for a production issue to showcase problem-solving."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -1.5,
+      "description": "Supports confident project choices.",
+      "action": "Make strategic decisions in a media project to demonstrate capability."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -1.5,
+      "description": "Enhances media campaign management.",
+      "action": "Develop a content strategy plan to highlight planning skills."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -1.5,
+      "description": "Ensures high-quality content evaluation.",
+      "action": "Critique a media piece in a team discussion to showcase critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -1.5,
+      "description": "Enhances pitching and collaboration.",
+      "action": "Deliver a compelling project pitch to showcase communication skills."
+    },
+    {
+      "name": "Teamwork",
+      "score": -1.5,
+      "description": "Strengthens collaborative media projects.",
+      "action": "Lead a group film or design project to demonstrate teamwork."
+    },
+    {
+      "name": "Leadership",
+      "score": -1.5,
+      "description": "Guides creative teams effectively.",
+      "action": "Direct a media production to show leadership."
+    },
+    {
+      "name": "Negotiation",
+      "score": -1.5,
+      "description": "Secures project funding or contracts.",
+      "action": "Negotiate a mock project contract to highlight negotiation skills."
+    },
+    {
+      "name": "Drive",
+      "score": -1.5,
+      "description": "Fuels motivation for creative projects.",
+      "action": "Pursue a challenging media goal to showcase drive."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -1.5,
+      "description": "Encourages continuous creative learning.",
+      "action": "Share insights from a new media course in a team meeting."
+    },
+    {
+      "name": "Resilience",
+      "score": -1.5,
+      "description": "Helps navigate creative rejections.",
+      "action": "Share strategies for overcoming project setbacks in a team discussion."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -1.5,
+      "description": "Boosts confidence in creative tasks.",
+      "action": "Present a confident creative proposal to demonstrate self-efficacy."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -1.5,
+      "description": "Sustains passion for media work.",
+      "action": "Share personal motivations in a creative team discussion to inspire others."
+    },
+    {
+      "name": "Adaptability",
+      "score": -1.5,
+      "description": "Enables adjustment to new media trends.",
+      "action": "Adopt a new content creation tool to show flexibility."
+    },
+    {
+      "name": "Time Management",
+      "score": -1.5,
+      "description": "Ensures meeting project deadlines.",
+      "action": "Organize a project timeline to demonstrate time management."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -1.5,
+      "description": "Drives initiative in content creation.",
+      "action": "Propose a new media idea to showcase proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -1.5,
+      "description": "Supports audience analytics for media.",
+      "action": "Analyze audience metrics to highlight analytical skills."
+    },
+    {
+      "name": "Programming",
+      "score": -1.5,
+      "description": "Aids in developing interactive media.",
+      "action": "Create a simple web-based media feature using JavaScript."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -1.5,
+      "description": "Enhances budgeting for media projects.",
+      "action": "Develop a project budget to demonstrate reasoning skills."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -1.5,
+      "description": "Resolves issues with editing software.",
+      "action": "Fix a software issue in Adobe Premiere to show troubleshooting skills."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -1.5,
+      "description": "Enhances detail in documentary work.",
+      "action": "Present detailed observations in a media project to highlight skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -1.5,
+      "description": "Fosters innovative media solutions.",
+      "action": "Apply design thinking to create a user-focused media project."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -1.5,
+      "description": "Enhances team and audience engagement.",
+      "action": "Build rapport in a creative team to demonstrate emotional intelligence."
+    },
+    {
+      "name": "Resistance",
+      "score": -1.5,
+      "description": "Builds endurance against creative stress.",
+      "action": "Share stress management tips in a media team setting."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -1.5,
+      "description": "Strengthens authentic storytelling.",
+      "action": "Write an expressive script to showcase emotional depth."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -1.5,
+      "description": "Supports quick metric calculations.",
+      "action": "Perform rapid budget calculations in a media project to show aptitude."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -1.5,
+      "description": "Aids in designing compositions.",
+      "action": "Create a 3D layout for a media project to demonstrate spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -1.5,
+      "description": "Improves evaluation of media impact.",
+      "action": "Analyze audience feedback to showcase analytical skills."
+    },
+    {
+      "name": "Compassion",
+      "score": -1.8,
+      "description": "Facilitates connection in storytelling.",
+      "action": "Incorporate compassionate themes into a media project to demonstrate strength."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -1.5,
+      "description": "Supports diverse creative approaches.",
+      "action": "Combine multiple media formats in a project to highlight eclecticism."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -1.5,
+      "description": "Drives exploration of new media trends.",
+      "action": "Share a creative research question in a team discussion."
+    },
+    {
+      "name": "Precision",
+      "score": -1.5,
+      "description": "Ensures high-quality content creation.",
+      "action": "Deliver a meticulously edited media piece to showcase precision."
+    },
+    {
+      "name": "Organization",
+      "score": -1.5,
+      "description": "Vital for managing projects and assets.",
+      "action": "Organize digital project assets for a media project to showcase organizational skills."
+    },
+    {
+      "name": "Responsibility",
+      "score": -1.5,
+      "description": "Ensures accountability in project delivery",
+      "action": "Take ownership of a media task to demonstrate reliability."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -1.5,
+      "description": "Supports consistent creative output.",
+      "action": "Maintain a disciplined content creation routine to show self-discipline."
+    },
+    {
+      "name": "Agility",
+      "score": -1.5,
+      "description": "Enables quick adaptation to project changes.",
+      "action": "Respond swiftly in a media production simulation to demonstrate agility."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -1.5,
+      "description": "Aids in advocating for creative ideas.",
+      "action": "Confidently present a creative proposal to showcase assertiveness."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -1.5,
+      "description": "Enhances audience engagement.",
+      "action": "Engage audiences in a media presentation to showcase talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -1.5,
+      "description": "Strengthens audience connection in media.",
+      "action": "Develop an empathetic storyline to demonstrate empathy."
+    },
+    {
+      "name": "Cooperation",
+      "score": -1.5,
+      "description": "Supports collaborative media projects.",
+      "action": "Collaborate on a group media project to demonstrate cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -1.5,
+      "description": "Ensures smooth project execution.",
+      "action": ""
+    },
+    {
+      "name": "Frankness",
+      "score": -1.5,
+      "description": "Builds trust in creative collaborations.",
+      "action": "Provide transparent feedback in a team critique to show coordination."
+    },
+    {
+      "name": "Patience",
+      "score": -1.5,
+      "description": "Key for iterative creative processes.",
+      "action": "Demonstrate patience during a project revision to showcase composure."
+    },
+    {
+      "name": "Fear Management",
+      "score": -1.5,
+      "description": "Reduces anxiety in high-stakes projects.",
+      "action": "Share fear management strategies to manage stress."
+    },
+    {
+      "name": "Balance",
+      "score": -1.5,
+      "description": "Maintains stability in demanding roles.",
+      "action": "Maintain a balanced approach to work-life balance to demonstrate stability."
+    },
+    {
+      "name": "Persuasive",
+      "score": -1.5,
+      "description": "Convinces stakeholders of project value.",
+      "action": "Deliver a persuasive project pitch to demonstrate persuasiveness."
+    },
+    {
+      "name": "Storytelling",
+      "score": -1.5,
+      "description": "Creates compelling media content.",
+      "action": "Produce a captivating narrative to showcase storytelling skills."
+    },
+    {
+      "name": "Discerning",
+      "score": -1.5,
+      "description": "Ensures high-quality content evaluation.",
+      "action": "Evaluate a media piece to demonstrate discernment."
+    },
+    {
+      "name": "Innovative",
+      "score": -1.5,
+      "description": "Drives innovative media projects.",
+      "action": "Propose a groundbreaking content idea to demonstrate innovative thinking."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -1.5,
+      "description": "Enhances thematic development.",
+      "action": "Develop a thematic framework for a media project."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -1.5,
+      "description": "Supports audience analytics.",
+      "action": "Analyze a media campaign\u2019s performance to showcase quantitative skills."
+    },
+    {
+      "name": "Methodical",
+      "score": -1.5,
+      "description": "Ensures systematic creative processes.",
+      "action": "Create a project workflow to demonstrate methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -1.5,
+      "description": "Enhances data-driven content decisions.",
+      "action": "Analyze audience data to showcase analytic skills."
+    },
+    {
+      "name": "Imaginative",
+      "score": -1.5,
+      "description": "Fosters visionary media projects.",
+      "action": "Create a bold project concept to demonstrate imagination."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -1.5,
+      "description": "Elevates visual appeal of content.",
+      "action": "Design a stunning media piece to showcase aesthetic skills."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -1.5,
+      "description": "Strengthens creative team collaboration.",
+      "action": "Lead a team-based media project to demonstrate team orientation."
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "career": "Banking & Money Management Careers",
+  "category": "Strength",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -1.840,
+      "description": "Drives achievement of financial targets.",
+      "action": "Set and track personal financial goals using SMM’s progress tracker to showcase ambition."
+    },
+    {
+      "name": "Strength",
+      "score": -1.500,
+      "description": "Enhances mental fortitude for financial challenges.",
+      "action": "Lead a high-pressure financial project to demonstrate resilience."
+    },
+    {
+      "name": "Accurate",
+      "score": -1.500,
+      "description": "Ensures precision in financial calculations.",
+      "action": "Volunteer for auditing tasks to highlight accuracy."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -1.572,
+      "description": "Strong logic aids financial problem-solving.",
+      "action": "Apply logic in financial modeling to showcase expertise."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -1.500,
+      "description": "Aids in visualizing financial data layouts.",
+      "action": "Design portfolio dashboards to display spatial skills."
+    },
+    {
+      "name": "Dexterity",
+      "score": -1.500,
+      "description": "Improves efficiency in handling financial tools.",
+      "action": "Streamline data entry processes to demonstrate dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -1.500,
+      "description": "Boosts stamina for long work hours.",
+      "action": "Maintain a fitness routine to sustain energy in financial roles."
+    },
+    {
+      "name": "Melodic",
+      "score": -1.500,
+      "description": "Enhances client presentations with engaging tones.",
+      "action": "Use vocal clarity in financial pitches to captivate clients."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -1.500,
+      "description": "Improves visual appeal of financial reports.",
+      "action": "Create polished financial presentations using design software."
+    },
+    {
+      "name": "Creativity",
+      "score": -1.500,
+      "description": "Fosters innovative financial strategies.",
+      "action": "Propose creative investment ideas in team meetings."
+    },
+    {
+      "name": "Observational",
+      "score": -1.500,
+      "description": "Helps spot market trends and client needs.",
+      "action": "Share market insights in team discussions to highlight observational skills."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -1.500,
+      "description": "Resolves financial discrepancies effectively.",
+      "action": "Lead a case study analysis to showcase problem-solving."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -1.500,
+      "description": "Supports confident financial choices.",
+      "action": "Make strategic decisions in financial simulations to demonstrate capability."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -1.500,
+      "description": "Aids in effective financial forecasting.",
+      "action": "Develop a long-term financial plan to highlight planning skills."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -1.560,
+      "description": "Excellent for evaluating investment options.",
+      "action": "Lead a team discussion on financial strategies to highlight critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -1.500,
+      "description": "Enhances clarity in financial presentations.",
+      "action": "Deliver a financial report to showcase communication skills."
+    },
+    {
+      "name": "Teamwork",
+      "score": -1.500,
+      "description": "Strengthens collaboration in financial teams.",
+      "action": "Lead a collaborative financial project to demonstrate teamwork."
+    },
+    {
+      "name": "Leadership",
+      "score": -1.500,
+      "description": "Guides financial teams effectively.",
+      "action": "Mentor a junior colleague in a financial task to show leadership."
+    },
+    {
+      "name": "Negotiation",
+      "score": -1.500,
+      "description": "Secures favorable client deals.",
+      "action": "Negotiate a mock deal to highlight negotiation prowess."
+    },
+    {
+      "name": "Drive",
+      "score": -1.500,
+      "description": "Fuels motivation for financial goals.",
+      "action": "Pursue a challenging financial target to showcase drive."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -1.500,
+      "description": "Encourages continuous financial learning.",
+      "action": "Share insights from a finance book in a team meeting."
+    },
+    {
+      "name": "Resilience",
+      "score": -1.500,
+      "description": "Helps navigate market volatility.",
+      "action": "Share strategies for staying calm during market downturns."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -1.500,
+      "description": "Boosts confidence in financial tasks.",
+      "action": "Present a confident financial analysis to demonstrate self-efficacy."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -1.500,
+      "description": "Sustains passion for finance.",
+      "action": "Share personal motivations in a team discussion to inspire others."
+    },
+    {
+      "name": "Adaptability",
+      "score": -1.500,
+      "description": "Enables adjustment to market changes.",
+      "action": "Adapt a financial strategy to new data to show flexibility."
+    },
+    {
+      "name": "Time Management",
+      "score": -1.500,
+      "description": "Ensures meeting financial deadlines.",
+      "action": "Organize a project timeline to demonstrate time management."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -1.500,
+      "description": "Drives initiative in financial planning.",
+      "action": "Propose a new financial strategy to showcase proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -1.500,
+      "description": "Supports interpretation of financial data.",
+      "action": "Create a data-driven financial report to highlight analytical skills."
+    },
+    {
+      "name": "Programming",
+      "score": -1.500,
+      "description": "Aids in automating financial models.",
+      "action": "Develop a simple financial script in Python to show technical skills."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -1.500,
+      "description": "Enhances logical financial assessments.",
+      "action": "Solve complex financial problems to demonstrate reasoning."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -1.500,
+      "description": "Resolves financial software issues.",
+      "action": "Fix an Excel issue in a team project to show troubleshooting skills."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -1.500,
+      "description": "Improves analysis of market patterns.",
+      "action": "Present a market trend analysis to highlight observation skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -1.500,
+      "description": "Fosters innovative financial solutions.",
+      "action": "Design a creative financial product to showcase design thinking."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -1.500,
+      "description": "Enhances client relationship management.",
+      "action": "Build rapport in a client meeting to demonstrate emotional intelligence."
+    },
+    {
+      "name": "Resistance",
+      "score": -1.500,
+      "description": "Builds endurance against financial stress.",
+      "action": "Share stress management tips in a team setting."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -1.500,
+      "description": "Strengthens client trust through empathy.",
+      "action": "Express empathy in a client presentation to build trust."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -1.500,
+      "description": "Supports rapid financial calculations.",
+      "action": "Perform quick calculations in a team meeting to show aptitude."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -1.500,
+      "description": "Aids in visualizing financial portfolios.",
+      "action": "Create a portfolio visualization to demonstrate spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -1.500,
+      "description": "Enhances problem-solving in financial scenarios.",
+      "action": "Analyze a financial case study to showcase analytical skills."
+    },
+    {
+      "name": "Compassion",
+      "score": -1.500,
+      "description": "Builds client trust in advisory roles.",
+      "action": "Show compassion in client interactions to strengthen relationships."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -1.500,
+      "description": "Encourages diverse financial strategies.",
+      "action": "Propose a unique investment approach to highlight eclecticism."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -1.500,
+      "description": "Drives research into market trends.",
+      "action": "Share a market research finding to demonstrate curiosity."
+    },
+    {
+      "name": "Precision",
+      "score": -1.656,
+      "description": "Ensures accuracy in financial reports.",
+      "action": "Volunteer for auditing tasks to demonstrate precision."
+    },
+    {
+      "name": "Organization",
+      "score": -1.500,
+      "description": "Vital for managing financial records.",
+      "action": "Organize financial data for a project to show organizational skills."
+    },
+    {
+      "name": "Responsibility",
+      "score": -1.500,
+      "description": "Ensures accountability in finance.",
+      "action": "Take ownership of a financial task to highlight responsibility."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -1.786,
+      "description": "Supports consistent financial performance.",
+      "action": "Maintain a disciplined study schedule for CFA certification."
+    },
+    {
+      "name": "Agility",
+      "score": -1.500,
+      "description": "Enables quick responses to market shifts.",
+      "action": "Respond swiftly in a financial simulation to show agility."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -1.500,
+      "description": "Aids in advocating financial plans.",
+      "action": "Present a financial plan confidently to demonstrate assertiveness."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -1.500,
+      "description": "Enhances client engagement.",
+      "action": "Engage clients in a financial discussion to showcase talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -1.500,
+      "description": "Strengthens client relationships.",
+      "action": "Show empathy in client meetings to build trust."
+    },
+    {
+      "name": "Cooperation",
+      "score": -1.500,
+      "description": "Supports team-based financial projects.",
+      "action": "Collaborate on a financial plan to demonstrate cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -1.500,
+      "description": "Ensures smooth project execution.",
+      "action": "Coordinate a team financial task to show coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -1.969,
+      "description": "Builds trust in client interactions.",
+      "action": "Practice transparent communication in presentations."
+    },
+    {
+      "name": "Patience",
+      "score": -1.500,
+      "description": "Key for long-term financial planning.",
+      "action": "Demonstrate patience in a long-term financial project."
+    },
+    {
+      "name": "Fear Management",
+      "score": -1.500,
+      "description": "Reduces anxiety in volatile markets.",
+      "action": "Share fear management strategies in a team setting."
+    },
+    {
+      "name": "Balance",
+      "score": -1.500,
+      "description": "Maintains stability in high-pressure roles.",
+      "action": "Maintain work-life balance to demonstrate stability."
+    },
+    {
+      "name": "Persuasive",
+      "score": -1.500,
+      "description": "Convinces clients of financial plans.",
+      "action": "Deliver a persuasive financial pitch to showcase skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -1.500,
+      "description": "Enhances financial presentations.",
+      "action": "Craft a compelling financial narrative for clients."
+    },
+    {
+      "name": "Discerning",
+      "score": -1.500,
+      "description": "Supports risk evaluation.",
+      "action": "Evaluate risks in a financial case study to show discernment."
+    },
+    {
+      "name": "Innovative",
+      "score": -1.500,
+      "description": "Drives novel financial strategies.",
+      "action": "Propose a creative financial solution in a meeting."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -1.500,
+      "description": "Aids in understanding financial systems.",
+      "action": "Explain a financial concept to colleagues to show conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -1.500,
+      "description": "Supports financial modeling.",
+      "action": "Build a financial model to demonstrate quantitative skills."
+    },
+    {
+      "name": "Methodical",
+      "score": -1.500,
+      "description": "Ensures systematic financial processes.",
+      "action": "Develop a budgeting workflow to showcase methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -1.500,
+      "description": "Enhances data-driven decisions.",
+      "action": "Perform a data analysis to demonstrate analytic skills."
+    },
+    {
+      "name": "Imaginative",
+      "score": -1.500,
+      "description": "Fosters creative financial solutions.",
+      "action": "Propose an imaginative investment idea to show creativity."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -1.500,
+      "description": "Improves visual appeal of financial reports.",
+      "action": "Design a polished financial dashboard to showcase aesthetics."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -1.500,
+      "description": "Strengthens team collaboration.",
+      "action": "Lead a team financial project to demonstrate team orientation."
+    }
+  ]
+}

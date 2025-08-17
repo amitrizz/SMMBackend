@@ -1,0 +1,408 @@
+{
+  "career": "Technical and Scientific Careers",
+  "category": "Strength",
+  "traits": [
+    {
+      "name": "Goal-Oriented",
+      "score": -1.5,
+      "description": "Drives completion of research objectives.",
+      "action": "Set and track research milestones using SMM\u2019s progress tracker to showcase ambition."
+    },
+    {
+      "name": "Strength",
+      "score": -1.5,
+      "description": "Enhances mental resilience for scientific challenges.",
+      "action": "Lead a high-pressure research project to demonstrate fortitude."
+    },
+    {
+      "name": "Accurate",
+      "score": -1.5,
+      "description": "Ensures precision in experimental data.",
+      "action": "Calibrate lab equipment to highlight accuracy in experiments."
+    },
+    {
+      "name": "Logical Reasoning",
+      "score": -1.5,
+      "description": "Aids in solving complex scientific problems.",
+      "action": "Apply logical reasoning in a data analysis project to showcase expertise."
+    },
+    {
+      "name": "Spatially Aware",
+      "score": -1.5,
+      "description": "Helps visualize scientific models.",
+      "action": "Create 3D visualizations for a research project to display spatial skills."
+    },
+    {
+      "name": "Dexterity",
+      "score": -1.5,
+      "description": "Improves handling of lab equipment.",
+      "action": "Streamline lab procedures to demonstrate dexterity."
+    },
+    {
+      "name": "Athletic",
+      "score": -1.5,
+      "description": "Boosts stamina for fieldwork or long lab hours.",
+      "action": "Maintain a fitness routine to sustain energy in research roles."
+    },
+    {
+      "name": "Melodic",
+      "score": -1.5,
+      "description": "Enhances research presentations with engaging tones.",
+      "action": "Use vocal clarity in a scientific conference to captivate audiences."
+    },
+    {
+      "name": "Artistic Sensitivity",
+      "score": -1.5,
+      "description": "Improves design of scientific visualizations.",
+      "action": "Create polished data charts to showcase aesthetic skills."
+    },
+    {
+      "name": "Creativity",
+      "score": -1.5,
+      "description": "Fosters innovative research ideas.",
+      "action": "Propose a novel experiment in a team meeting to highlight creativity."
+    },
+    {
+      "name": "Observational",
+      "score": -1.5,
+      "description": "Helps detect experimental anomalies.",
+      "action": "Share observational insights in a lab discussion to demonstrate skill."
+    },
+    {
+      "name": "Problem-Solving",
+      "score": -1.5,
+      "description": "Resolves research challenges effectively.",
+      "action": "Lead a case study analysis to showcase problem-solving."
+    },
+    {
+      "name": "Decision-Making",
+      "score": -1.5,
+      "description": "Supports confident research choices.",
+      "action": "Make strategic decisions in a research simulation to demonstrate capability."
+    },
+    {
+      "name": "Strategic Planning",
+      "score": -1.5,
+      "description": "Aids in effective research planning.",
+      "action": "Develop a research project timeline to highlight planning skills."
+    },
+    {
+      "name": "Critical Thinking",
+      "score": -1.5,
+      "description": "Enhances evaluation of hypotheses.",
+      "action": "Lead a peer review of a scientific paper to showcase critical thinking."
+    },
+    {
+      "name": "Communication",
+      "score": -1.5,
+      "description": "Enhances clarity in research presentations.",
+      "action": "Deliver a research talk to showcase communication skills."
+    },
+    {
+      "name": "Teamwork",
+      "score": -1.5,
+      "description": "Strengthens collaboration in research labs.",
+      "action": "Lead a collaborative experiment to demonstrate teamwork."
+    },
+    {
+      "name": "Leadership",
+      "score": -1.5,
+      "description": "Guides research teams effectively.",
+      "action": "Mentor a junior researcher to show leadership."
+    },
+    {
+      "name": "Negotiation",
+      "score": -1.5,
+      "description": "Secures research funding or partnerships.",
+      "action": "Negotiate a mock grant proposal to highlight negotiation skills."
+    },
+    {
+      "name": "Drive",
+      "score": -1.5,
+      "description": "Fuels motivation for research goals.",
+      "action": "Pursue a challenging research target to showcase drive."
+    },
+    {
+      "name": "Growth Mindset",
+      "score": -1.5,
+      "description": "Encourages continuous scientific learning.",
+      "action": "Share insights from a scientific journal in a team meeting."
+    },
+    {
+      "name": "Resilience",
+      "score": -1.5,
+      "description": "Helps navigate research setbacks.",
+      "action": "Share strategies for overcoming experimental failures in a lab meeting."
+    },
+    {
+      "name": "Self-Efficacy",
+      "score": -1.5,
+      "description": "Boosts confidence in research tasks.",
+      "action": "Present a confident research analysis to demonstrate self-efficacy."
+    },
+    {
+      "name": "Intrinsic Motivation",
+      "score": -1.5,
+      "description": "Sustains passion for science.",
+      "action": "Share personal motivations in a research discussion to inspire others."
+    },
+    {
+      "name": "Adaptability",
+      "score": -1.5,
+      "description": "Enables adjustment to new methodologies.",
+      "action": "Adapt a research approach to new data to show flexibility."
+    },
+    {
+      "name": "Time Management",
+      "score": -1.5,
+      "description": "Ensures meeting research deadlines.",
+      "action": "Organize a project timeline to demonstrate time management."
+    },
+    {
+      "name": "Proactiveness",
+      "score": -1.5,
+      "description": "Drives initiative in experiments.",
+      "action": "Propose a new research idea to showcase proactiveness."
+    },
+    {
+      "name": "Data Analysis",
+      "score": -1.5,
+      "description": "Supports interpretation of research data.",
+      "action": "Create a data-driven research report to highlight analytical skills."
+    },
+    {
+      "name": "Programming",
+      "score": -1.5,
+      "description": "Aids in developing research software.",
+      "action": "Develop a Python script for data analysis to show technical skills."
+    },
+    {
+      "name": "Numerical Reasoning",
+      "score": -1.5,
+      "description": "Enhances quantitative assessments.",
+      "action": "Solve complex numerical problems in a research project to demonstrate reasoning."
+    },
+    {
+      "name": "Technical Troubleshooting",
+      "score": -1.5,
+      "description": "Resolves lab equipment issues.",
+      "action": "Fix a lab tool issue to show troubleshooting skills."
+    },
+    {
+      "name": "Scientific Observation",
+      "score": -1.5,
+      "description": "Improves detection of research patterns.",
+      "action": "Present a pattern analysis from an experiment to highlight observation skills."
+    },
+    {
+      "name": "Design Thinking",
+      "score": -1.5,
+      "description": "Fosters innovative research solutions.",
+      "action": "Design a creative research approach to showcase design thinking."
+    },
+    {
+      "name": "Emotional Intelligence",
+      "score": -1.5,
+      "description": "Enhances lab team dynamics.",
+      "action": "Build rapport in a research team to demonstrate emotional intelligence."
+    },
+    {
+      "name": "Resistance",
+      "score": -1.5,
+      "description": "Builds endurance against research stress.",
+      "action": "Share stress management tips in a lab setting."
+    },
+    {
+      "name": "Emotional Expression",
+      "score": -1.5,
+      "description": "Strengthens team trust through empathy.",
+      "action": "Express empathy in a research team meeting to build trust."
+    },
+    {
+      "name": "Numerical Aptitude",
+      "score": -1.5,
+      "description": "Supports rapid calculations in experiments.",
+      "action": "Perform quick calculations in a lab meeting to show aptitude."
+    },
+    {
+      "name": "Spatial Intelligence",
+      "score": -1.5,
+      "description": "Aids in visualizing scientific models.",
+      "action": "Create a 3D model for a research project to demonstrate spatial skills."
+    },
+    {
+      "name": "Analytical Thinking",
+      "score": -1.5,
+      "description": "Enhances research data analysis.",
+      "action": "Analyze a dataset to showcase analytical skills."
+    },
+    {
+      "name": "Compassion",
+      "score": -1.5,
+      "description": "Builds trust in research collaborations.",
+      "action": "Show compassion in team interactions to strengthen relationships."
+    },
+    {
+      "name": "Eclecticism",
+      "score": -1.5,
+      "description": "Encourages diverse research approaches.",
+      "action": "Propose an interdisciplinary research idea to highlight eclecticism."
+    },
+    {
+      "name": "Inquisitiveness",
+      "score": -1.5,
+      "description": "Drives scientific curiosity.",
+      "action": "Share a research question in a team discussion to demonstrate curiosity."
+    },
+    {
+      "name": "Precision",
+      "score": -1.5,
+      "description": "Ensures accuracy in experiments.",
+      "action": "Calibrate lab equipment to showcase precision."
+    },
+    {
+      "name": "Organization",
+      "score": -1.5,
+      "description": "Vital for managing research data.",
+      "action": "Organize research data for a project to show organizational skills."
+    },
+    {
+      "name": "Responsibility",
+      "score": -1.5,
+      "description": "Ensures accountability in research.",
+      "action": "Take ownership of a research task to highlight responsibility."
+    },
+    {
+      "name": "Self-Discipline",
+      "score": -1.5,
+      "description": "Supports consistent research efforts.",
+      "action": "Maintain a disciplined research schedule to demonstrate self-discipline."
+    },
+    {
+      "name": "Agility",
+      "score": -1.5,
+      "description": "Enables quick adaptation to experimental changes.",
+      "action": "Respond swiftly in a research simulation to show agility."
+    },
+    {
+      "name": "Assertiveness",
+      "score": -1.5,
+      "description": "Aids in advocating research ideas.",
+      "action": "Present a research proposal confidently to demonstrate assertiveness."
+    },
+    {
+      "name": "Talkativeness",
+      "score": -1.5,
+      "description": "Enhances research presentations.",
+      "action": "Engage audiences in a scientific talk to showcase talkativeness."
+    },
+    {
+      "name": "Empathy",
+      "score": -1.5,
+      "description": "Strengthens research team relationships.",
+      "action": "Show empathy in lab meetings to build trust."
+    },
+    {
+      "name": "Cooperation",
+      "score": -1.5,
+      "description": "Supports collaborative research projects.",
+      "action": "Collaborate on a group experiment to demonstrate cooperation."
+    },
+    {
+      "name": "Coordination",
+      "score": -1.5,
+      "description": "Ensures smooth research execution.",
+      "action": "Coordinate a lab project to show coordination."
+    },
+    {
+      "name": "Frankness",
+      "score": -1.5,
+      "description": "Builds trust in research collaborations.",
+      "action": "Practice transparent communication in research reports."
+    },
+    {
+      "name": "Patience",
+      "score": -1.5,
+      "description": "Key for long-term experiments.",
+      "action": "Demonstrate patience in a long-term research project."
+    },
+    {
+      "name": "Fear Management",
+      "score": -1.5,
+      "description": "Reduces anxiety in high-stakes research.",
+      "action": "Share fear management strategies in a lab setting."
+    },
+    {
+      "name": "Balance",
+      "score": -1.5,
+      "description": "Maintains stability in demanding research roles.",
+      "action": "Maintain work-life balance to demonstrate stability."
+    },
+    {
+      "name": "Persuasive",
+      "score": -1.5,
+      "description": "Convinces stakeholders of research value.",
+      "action": "Deliver a persuasive grant proposal to showcase skills."
+    },
+    {
+      "name": "Storytelling",
+      "score": -1.5,
+      "description": "Enhances scientific presentations.",
+      "action": "Craft a compelling research narrative for a conference."
+    },
+    {
+      "name": "Discerning",
+      "score": -1.5,
+      "description": "Supports evaluation of research validity.",
+      "action": "Review a scientific paper to show discernment."
+    },
+    {
+      "name": "Innovative",
+      "score": -1.5,
+      "description": "Drives novel research discoveries.",
+      "action": "Propose a creative research hypothesis to showcase innovation."
+    },
+    {
+      "name": "Conceptual Thinking",
+      "score": -1.5,
+      "description": "Aids in understanding scientific theories.",
+      "action": "Explain a scientific concept to colleagues to show conceptual skills."
+    },
+    {
+      "name": "Quantitative Skills",
+      "score": -1.5,
+      "description": "Supports statistical analysis in research.",
+      "action": "Build a statistical model to demonstrate quantitative skills."
+    },
+    {
+      "name": "Methodical",
+      "score": -1.5,
+      "description": "Ensures systematic research processes.",
+      "action": "Develop a research protocol to showcase methodical skills."
+    },
+    {
+      "name": "Analytic",
+      "score": -1.5,
+      "description": "Enhances data-driven research decisions.",
+      "action": "Perform a data analysis to demonstrate analytic skills."
+    },
+    {
+      "name": "Imaginative",
+      "score": -1.5,
+      "description": "Fosters creative research solutions.",
+      "action": "Propose an imaginative experimental design to show creativity."
+    },
+    {
+      "name": "Aesthetic",
+      "score": -1.5,
+      "description": "Improves visual appeal of research outputs.",
+      "action": "Design a polished scientific poster to showcase aesthetics."
+    },
+    {
+      "name": "Team-Oriented",
+      "score": -1.5,
+      "description": "Strengthens research team collaboration.",
+      "action": "Lead a team research project to demonstrate team orientation."
+    }
+  ]
+}
