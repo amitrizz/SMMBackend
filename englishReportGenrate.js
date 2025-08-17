@@ -491,7 +491,7 @@ const colorPalette = [
 
 
 async function convertHtmlToPdf(htmlContent, outputPdfPath) {
-  const browser = await chromium.launch();
+  const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
   // Set HTML content
